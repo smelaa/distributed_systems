@@ -4,18 +4,21 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.io.OutputStreamWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
+import java.nio.charset.StandardCharsets;
+import java.net.DatagramSocket;
 
-class ClientHandler extends Thread {
+class TcpClientHandler extends Thread {
     private PrintWriter outClient;
     private BufferedReader inClient;
     private String name;
     private ClientRegister register;
     private boolean running = true;
 
-    public ClientHandler(ClientRegister register, String name, PrintWriter outClient, BufferedReader inClient) {
+    public TcpClientHandler(ClientRegister register, String name, PrintWriter outClient, BufferedReader inClient) {
         this.register = register;
         this.name = name;
         this.outClient = outClient;
@@ -52,40 +55,109 @@ class ClientHandler extends Thread {
 
 }
 
-class ClientRegister {
-    private HashMap<String, ClientHandler> clientHandlers = new HashMap<>();
+class UdpClientHandler extends Thread{
 
-    public void sendToAll(String senderName, String msg) {
+}
+
+class ClientRegister {
+    private HashMap<String, TcpClientHandler> clientHandlers = new HashMap<>();
+    private boolean writing = false;
+    private Integer readers =0;
+
+    private void reader(int amount){
+        synchronized(clientHandlers){
+            readers+=amount;
+        }
+    }
+
+    private boolean isReading(){
+        synchronized(clientHandlers){
+            return readers!=0;
+        }
+    }
+
+    public synchronized void sendToAll(String senderName, String msg) {
+        while(writing){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        reader(1);
         String msgToSend = senderName + ": " + msg;
         for (String clientName : clientHandlers.keySet()) {
             if (clientName != senderName) {
                 clientHandlers.get(clientName).send(msgToSend);
             }
         }
+        reader(-1);
+        notifyAll();
     }
 
-    public boolean isNameAvailable(String name) {
-        for (String unavailableName : clientHandlers.keySet()) {
-            if (unavailableName.equals(name)) {
-                return false;
+    public synchronized boolean isNameAvailable(String name) {
+        while(writing){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
         }
-        return true;
-    }
-
-    public void addClient(String name, ClientHandler handler) {
-        clientHandlers.put(name, handler);
-    }
-
-    public void removeClient(String name) {
-        clientHandlers.remove(name);
-    }
-
-    public void stopAllThreads() {
-        for (ClientHandler thread : clientHandlers.values()) {
-            thread.stopRunning();
-            thread.interrupt();
+        boolean result=true;
+        reader(1);
+        for (String unavailableName : clientHandlers.keySet()) {
+            if (unavailableName.equals(name)) {
+                result=false;
+                break;
+            }
         }
+        reader(-1);
+        notifyAll();
+        return result;
+    }
+
+    public synchronized void addClient(String name, TcpClientHandler handler) {
+        while(isReading() || writing){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        writing=true;
+        clientHandlers.put(name, handler);
+        writing=false;
+        notifyAll();
+    }
+
+    public synchronized void removeClient(String name) {
+        while(isReading() || writing){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        writing=true;
+        clientHandlers.remove(name);
+        writing=false;
+        notifyAll();
+    }
+
+    public synchronized void stopAllThreads() {
+        while(writing){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        reader(1);
+        for (TcpClientHandler thread : clientHandlers.values()) {
+            thread.stopRunning();
+        }
+        reader(-1);
+        notifyAll();
     }
 }
 
@@ -117,21 +189,24 @@ public class Server {
         System.out.println("Server started");
 
         int portNumber = 12345;
-        ServerSocket serverSocket = null;
+        ServerSocket tcpServerSocket = null;
+        DatagramSocket udpServerSocket = null;
         ClientRegister register = new ClientRegister();
 
         try {
-            serverSocket = new ServerSocket(portNumber);
-            Runtime.getRuntime().addShutdownHook(new ClosingServerHandler(serverSocket, register));
+            tcpServerSocket = new ServerSocket(portNumber);
+            udpServerSocket = new DatagramSocket(portNumber);
+            Runtime.getRuntime().addShutdownHook(new ClosingServerHandler(tcpServerSocket, register));
             while (true) {
-                Socket clientSocket = serverSocket.accept();
-                PrintWriter outClient = new PrintWriter(clientSocket.getOutputStream(), true);
-                BufferedReader inClient = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+                Socket clientSocket = tcpServerSocket.accept();
+                PrintWriter outClient = new PrintWriter(new OutputStreamWriter(
+                        clientSocket.getOutputStream(), StandardCharsets.UTF_8), true);
+                BufferedReader inClient = new BufferedReader(new InputStreamReader(clientSocket.getInputStream(), StandardCharsets.UTF_8));
                 String name = inClient.readLine();
                 if (register.isNameAvailable(name)) {
                     System.out.println(name + " connected");
                     outClient.println("connected");
-                    ClientHandler handler = new ClientHandler(register, name, outClient, inClient);
+                    TcpClientHandler handler = new TcpClientHandler(register, name, outClient, inClient);
                     register.addClient(name, handler);
                     handler.start();
                 } else {
@@ -142,7 +217,7 @@ public class Server {
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
-            new ClosingServerHandler(serverSocket, register).run();
+            new ClosingServerHandler(tcpServerSocket, register).run();
         }
     }
 

@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.io.OutputStreamWriter;
+import java.nio.charset.StandardCharsets;
 import java.net.Socket;
 
 class MsgReceiver extends Thread {
@@ -55,7 +57,6 @@ class ClosingClientHandler extends Thread {
         System.out.print("Closing... ");
         if (msgReceiver != null) {
             msgReceiver.stopRunning();
-            msgReceiver.interrupt();
         }
         out.println("closed");
         try {
@@ -79,8 +80,9 @@ public class Client {
 
         try {
             socket = new Socket(hostName, portNumber);
-            PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            PrintWriter out = new PrintWriter(new OutputStreamWriter(
+                socket.getOutputStream(), StandardCharsets.UTF_8), true);
+            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
 
             msgReceiver = new MsgReceiver(in);
 
@@ -109,13 +111,16 @@ public class Client {
         try {
             PrintWriter out = init(args != null && args.length != 0 ? args[0] : "" + ProcessHandle.current().pid());
             String msg;
-            BufferedReader keyRead = new BufferedReader(new InputStreamReader(System.in));
+            BufferedReader keyRead = new BufferedReader(new InputStreamReader(System.in, StandardCharsets.UTF_8));
             while (true) {
-                if ((msg = keyRead.readLine()) != null) {
+                 if ((msg = keyRead.readLine()) != null) {
+                    //System.out.println(msg);
                     if (msg.equals("close"))
                         System.exit(0);
-                    if (!msg.equals(""))
+                    if (!msg.equals("")){
                         out.println(msg);
+                        //out.println("zażółć żółtą gęś");
+                    }
                     System.out.print("> ");
                 }
             }
