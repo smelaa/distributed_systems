@@ -7,19 +7,22 @@ import java.io.PrintWriter;
 import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
 import java.net.Socket;
+import java.net.DatagramSocket;
+import java.net.DatagramPacket;
+import java.net.InetAddress;
 
-class MsgReceiver extends Thread {
+class TcpMsgReceiver extends Thread {
     private BufferedReader in;
     private boolean running = true;
 
-    public MsgReceiver(BufferedReader inBuffer) {
+    public TcpMsgReceiver(BufferedReader inBuffer) {
         in = inBuffer;
     }
 
     private void safePrint(String str) {
         System.out.println();
         System.out.println(str);
-        System.out.print("> ");
+        System.out.print("T> ");
         System.out.flush();
     }
 
@@ -42,26 +45,77 @@ class MsgReceiver extends Thread {
     }
 }
 
-class ClosingClientHandler extends Thread {
-    private final Socket socket;
-    private final MsgReceiver msgReceiver;
-    private final PrintWriter out;
+class UdpMsgReceiver extends Thread {
+    private boolean running = true;
+    private DatagramSocket udpSocket;
 
-    public ClosingClientHandler(Socket socket, MsgReceiver msgReceiver, PrintWriter out) {
-        this.socket = socket;
-        this.msgReceiver = msgReceiver;
+    public UdpMsgReceiver(DatagramSocket udpSocket) {
+        this.udpSocket = udpSocket;
+    }
+
+    private void safePrint(String str) {
+        System.out.println();
+        System.out.println(str);
+        System.out.print("T> ");
+        System.out.flush();
+    }
+
+    public void stopRunning() {
+        running = false;
+    }
+
+    public void run() {
+        byte[] receiveBuffer;
+        DatagramPacket receivePacket;
+        String receivedData;
+        while (running) {
+            try {
+                receiveBuffer = new byte[1024];
+                receivePacket = new DatagramPacket(receiveBuffer, receiveBuffer.length);
+                udpSocket.receive(receivePacket);
+                receivedData = new String(receivePacket.getData(), 0, receivePacket.getLength(), "UTF-8");
+                safePrint(receivedData);
+            } catch (IOException e) {
+                System.out.println("Server closed.");
+                System.exit(0);
+            }
+        }
+    }
+}
+
+class ClosingClientHandler extends Thread {
+    private final Socket tcpSocket;
+    private final DatagramSocket udpSocket;
+    private final TcpMsgReceiver tcpMsgReceiver;
+    private final UdpMsgReceiver udpMsgReceiver;
+    private final PrintWriter out;
+    private final UdpMsgSenderData udpData;
+
+    public ClosingClientHandler(Socket tcpSocket, DatagramSocket udpSocket, TcpMsgReceiver tcpMsgReceiver,
+            UdpMsgReceiver udpMsgReceiver, PrintWriter out, UdpMsgSenderData udpData) {
+        this.tcpSocket = tcpSocket;
+        this.udpSocket = udpSocket;
+        this.tcpMsgReceiver = tcpMsgReceiver;
+        this.udpMsgReceiver = udpMsgReceiver;
         this.out = out;
+        this.udpData = udpData;
     }
 
     public void run() {
         System.out.print("Closing... ");
-        if (msgReceiver != null) {
-            msgReceiver.stopRunning();
+        if (tcpMsgReceiver != null) {
+            tcpMsgReceiver.stopRunning();
+        }
+        if (udpMsgReceiver != null) {
+            udpMsgReceiver.stopRunning();
         }
         out.println("closed");
         try {
-            if (socket != null)
-                socket.close();
+            Client.sendUdpMsg("closed", udpData);
+            if (tcpSocket != null)
+                tcpSocket.close();
+            if (udpSocket != null)
+                udpSocket.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -70,23 +124,44 @@ class ClosingClientHandler extends Thread {
     }
 }
 
+record UdpMsgSenderData(InetAddress address, int portNumber, DatagramSocket udpSocket) {
+};
+
+record MsgSenderData(UdpMsgSenderData udpData, PrintWriter tcpData) {
+};
+
 public class Client {
-    private static PrintWriter init(String name) throws IOException {
-        System.out.println("Client started");
+    public static void sendUdpMsg(String msg, UdpMsgSenderData udpData) throws IOException {
+        byte[] sendBuffer = msg.getBytes("UTF-8");
+        DatagramPacket sendPacket = new DatagramPacket(sendBuffer, sendBuffer.length, udpData.address(),
+                udpData.portNumber());
+        udpData.udpSocket().send(sendPacket);
+    }
+
+    private static MsgSenderData init(String name) throws IOException {
         String hostName = "localhost";
         int portNumber = 12345;
-        Socket socket = null;
-        MsgReceiver msgReceiver = null;
+        System.out.println("Client started");
+        Socket tcpSocket = null;
+        DatagramSocket udpSocket = null;
+        TcpMsgReceiver msgReceiver = null;
+        UdpMsgReceiver udpMsgReceiver = null;
 
         try {
-            socket = new Socket(hostName, portNumber);
+            tcpSocket = new Socket(hostName, portNumber);
+            udpSocket = new DatagramSocket();
             PrintWriter out = new PrintWriter(new OutputStreamWriter(
-                socket.getOutputStream(), StandardCharsets.UTF_8), true);
-            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
+                    tcpSocket.getOutputStream(), StandardCharsets.UTF_8), true);
+            BufferedReader in = new BufferedReader(
+                    new InputStreamReader(tcpSocket.getInputStream(), StandardCharsets.UTF_8));
+            UdpMsgSenderData udpData = new UdpMsgSenderData(InetAddress.getByName(hostName), portNumber, udpSocket);
 
-            msgReceiver = new MsgReceiver(in);
+            msgReceiver = new TcpMsgReceiver(in);
+            udpMsgReceiver = new UdpMsgReceiver(udpSocket);
 
-            Runtime.getRuntime().addShutdownHook(new ClosingClientHandler(socket, msgReceiver, out));
+            Runtime.getRuntime()
+                    .addShutdownHook(
+                            new ClosingClientHandler(tcpSocket, udpSocket, msgReceiver, udpMsgReceiver, out, udpData));
 
             out.println(name);
             String receivedMsg = in.readLine();
@@ -95,33 +170,56 @@ public class Client {
                 System.exit(0);
             }
 
-            System.out.println("Type 'close' to exit");
-            System.out.print("> ");
+            Client.sendUdpMsg(name, udpData);
+
+            System.out.println("Type 'Q/' to exit");
+            System.out.println("Type 'U/' to use UDP");
+            System.out.print("T> ");
             msgReceiver.start();
-            return out;
+            udpMsgReceiver.start();
+            return new MsgSenderData(udpData, out);
         } catch (IOException e) {
-            if (socket != null)
-                socket.close();
+            if (tcpSocket != null)
+                tcpSocket.close();
+            if (udpSocket != null)
+                udpSocket.close();
             System.out.println("Init unsuccessfull");
             throw new IOException();
         }
     }
 
     public static void main(String[] args) throws IOException {
+
         try {
-            PrintWriter out = init(args != null && args.length != 0 ? args[0] : "" + ProcessHandle.current().pid());
+            MsgSenderData senderData = init(
+                    args != null && args.length != 0 ? args[0] : "" + ProcessHandle.current().pid());
+            PrintWriter out = senderData.tcpData();
+            UdpMsgSenderData udpData = senderData.udpData();
             String msg;
             BufferedReader keyRead = new BufferedReader(new InputStreamReader(System.in, StandardCharsets.UTF_8));
+            boolean udp = false;
             while (true) {
-                 if ((msg = keyRead.readLine()) != null) {
-                    //System.out.println(msg);
-                    if (msg.equals("close"))
+                if ((msg = keyRead.readLine()) != null) {
+                    // System.out.println(msg);
+                    if (msg.equals("Q/"))
                         System.exit(0);
-                    if (!msg.equals("")){
-                        out.println(msg);
-                        //out.println("zażółć żółtą gęś");
+                    else if (msg.equals("U/")) {
+                        System.out.print("U> ");
+                        udp = true;
+                    } else {
+                        if (!msg.equals("")) {
+                            if (udp) {
+                                sendUdpMsg(msg, udpData);
+                                udp = false;
+                            } else {
+                                out.println(msg);
+                                // out.println("zażółć żółtą gęś");}
+                            }
+                        } else {
+                            udp = false;
+                        }
+                        System.out.print("T> ");
                     }
-                    System.out.print("> ");
                 }
             }
         } catch (IOException e) {
