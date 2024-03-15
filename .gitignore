@@ -1,4 +1,4 @@
 *.class
 .vscode/
 API_KEYS.py
-_pycache_/
+__pycache__/
