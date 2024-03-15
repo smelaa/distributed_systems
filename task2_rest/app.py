@@ -2,7 +2,6 @@ from fastapi import FastAPI, Request, Form, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-from requests.exceptions import HTTPError, RequestException
 import requests
 import aiohttp
 from API_KEYS import API_NINJAS_KEY
@@ -18,11 +17,20 @@ def is_daytime(sunrise_sunset_data, current_time):
         if key_split[2].split(" ")[1]=="PM": key_min+=12*60
         return key_min
 
-    sunset_min=get_sunrise_sunset_min("sunset")
-    sunrise_min=get_sunrise_sunset_min("sunrise")
+    try:
+        sunset_min=get_sunrise_sunset_min("sunset")
+        sunrise_min=get_sunrise_sunset_min("sunrise")
 
-    current_split=current_time.split(":")
-    current_min=int(current_split[0])*60+int(current_split[1])
+        current_split=current_time.split(":")
+        minutes=int(current_split[1])
+        hours=int(current_split[0])
+        if minutes>60 or minutes<0 or hours>24 or hours<0:
+            raise ValueError
+        current_min=hours*60+minutes
+    except ValueError as e:
+        raise HTTPException(
+                status_code=500, detail=f"We cannot parse provided time data!"
+        )
 
     return current_min>sunrise_min and current_min<sunset_min
 
@@ -46,8 +54,7 @@ async def homepage(request: Request):
     return templates.TemplateResponse("homepage.html", {"request": request})
 
 @app.post("/results", response_class=HTMLResponse)
-async def post_results(request: Request, city: str = Form(None), current_time: str = Form(None)):
-
+async def post_results(request: Request, city:str = Form(None), current_time:str = Form(None)):
     if not city or not current_time:
         return templates.TemplateResponse(
             "homepage.html", {"request": request, "error": "PROVIDE CORRECT INFORMATION"}
