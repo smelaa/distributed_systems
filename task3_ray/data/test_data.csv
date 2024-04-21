@@ -1,0 +1,801 @@
+id,adaptability,good_for_novice_owners,sensitivity_level,tolerates_being_alone,tolerates_cold_weather,tolerates_hot_weather,all_around_friendliness,affectionate_with_family,incredibly_kifriendly_dogs,dog_friendly,friendly_towarstrangers,health_grooming,amount_of_shedding,drooling_potential,easy_to_groom,general_health,potential_for_weight_gain,size,trainability,easy_to_train,intelligence,potential_for_mouthiness,prey_drive,tendency_to_bark_or_howl,wanderlust_potential,exercise_needs,energy_level,intensity,potential_for_playfulness,breed_group,height,weight,lifspan
+3200,3,2,4,2,5,4,4,5,2,2,3,3,2,1,2,3,5,1,3,3,3,4,5,2,3,5,3,4,5,Hybrid Dogs,26 to 28 inches at the shoulder,3 to 6 pounds,10 to 14 years
+3201,3,3,4,4,3,3,3,4,1,4,2,3,2,1,5,4,4,2,3,2,4,3,3,3,2,4,3,2,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,13 to 18 pounds,10 to 13
+3202,3,2,4,1,3,3,4,5,5,2,4,4,4,5,5,2,4,2,3,4,4,3,2,3,5,5,5,1,5,Hound Dogs,"From 1 foot, 9 inches tall at the shoulder",9 to 15 pounds,11 to 16 years 
+3203,4,1,5,2,2,4,5,5,5,5,5,3,5,1,5,3,5,3,4,2,4,4,5,4,5,5,5,5,5,Hound Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",25 to 40 pounds,9 to 14 years
+3204,3,2,4,3,5,4,5,5,5,3,4,4,4,5,1,3,2,3,4,4,3,5,5,4,1,4,2,3,2,Sporting Dogs,12 to 15 inches. ,7 to 12 pounds,10 to 12 years
+3205,3,2,4,3,4,3,4,5,4,4,3,4,4,2,3,4,4,4,3,4,5,3,3,2,3,4,4,3,5,Sporting Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",9 to 13 pounds,10 to 18 years
+3206,3,2,4,1,3,4,4,5,4,3,2,3,4,1,5,3,3,4,3,2,4,3,4,2,2,4,5,4,4,Mixed Breed Dogs,16 to 25 inches ,Starts at 20 pounds,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+3207,3,2,4,1,2,2,4,5,4,3,2,4,4,2,2,4,4,4,3,5,4,3,3,1,2,4,4,3,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years
+3208,4,3,3,4,1,3,4,4,4,2,2,3,3,1,4,3,3,2,3,3,3,3,5,3,5,4,4,5,3,Sporting Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,10 to 15 years
+3209,4,2,5,1,2,4,4,4,3,3,5,3,3,1,5,4,5,1,4,2,5,3,5,4,5,3,4,2,3,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",15 to 35 pounds ,10 to 12 years
+3210,4,5,5,1,2,4,4,5,3,2,1,2,3,1,2,2,4,1,3,4,4,2,3,3,4,3,3,3,3,Companion Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,8 to 10 years
+3211,4,4,3,3,1,4,3,4,3,1,3,3,2,1,4,5,2,1,4,3,4,4,5,4,2,3,4,4,4,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,44 to 55 pounds. ,12 to 15 years
+3212,3,1,4,3,3,1,4,5,5,4,3,2,4,5,5,2,3,3,4,4,3,2,3,3,1,5,5,4,4,Herding Dogs,"2 feet, 2 inches to 2 feet, 6 inches tall at the shoulder",9 to 15 pounds,12 to 14 years
+3213,3,2,4,2,5,3,5,5,3,3,4,3,3,1,2,2,4,4,3,4,4,4,4,3,3,4,5,2,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 15 pounds,12 to 15 years
+3214,4,3,3,2,4,2,4,5,5,3,5,3,1,3,3,4,4,3,4,3,4,4,3,4,2,4,4,2,4,Hound Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",30 to 60 pounds,10 to 18 years
+3215,3,4,3,3,4,3,4,5,4,4,3,3,1,2,5,3,2,3,3,4,4,5,4,2,3,4,4,5,4,Herding Dogs,27 to 32 inches tall at the shoulder,70 to 115 pounds,12 to 15 years
+3216,3,4,3,1,4,3,4,4,4,3,3,2,1,1,2,3,3,1,3,3,4,3,2,5,3,3,3,3,4,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",40 to 95 pounds,12 to 15 years
+3217,2,3,4,2,4,2,4,5,4,3,2,3,3,2,3,3,3,3,4,4,4,4,4,3,3,4,4,3,4,Mixed Breed Dogs,16 to 25 inches,22 to 55 pounds,6 to 12 years
+3218,3,2,5,3,4,1,4,5,5,5,5,4,3,3,2,2,5,4,3,3,2,5,4,3,3,4,2,3,4,Terrier Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,11 to 13 Years
+3219,2,1,4,2,4,3,4,5,5,5,5,4,5,4,3,3,4,5,4,5,5,5,5,4,4,4,5,5,5,Working Dogs,26 to 34 inches tall at the shoulder,15 to 17 pounds,10 to 12 years
+3220,3,2,4,2,2,2,4,5,4,2,4,3,3,2,5,4,3,3,4,3,5,3,5,4,4,4,5,3,3,Mixed Breed Dogs,20 to 25 inches,120 to 180 pounds,10 to 16 years
+3221,3,2,4,1,4,4,4,5,4,2,4,4,1,1,2,3,4,3,4,5,4,2,3,1,3,4,5,4,5,Hound Dogs,8 to 18 inches ,9 to 15 pounds,12 to 15 years
+3222,3,3,2,1,2,3,4,5,4,4,3,2,2,1,5,2,4,3,4,3,4,4,3,2,3,4,3,2,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,10 to 12 years
+3223,3,1,4,2,3,4,3,4,5,3,2,3,3,1,3,4,4,3,4,3,3,3,5,4,4,5,2,2,4,Sporting Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",7 to 12 pounds,12 to 16 years
+3224,3,2,5,2,3,4,4,5,4,4,4,3,4,2,2,4,4,2,3,4,3,2,5,2,3,4,4,4,5,Mixed Breed Dogs,9 to 12 inches,40 to 180 pounds,12 to 15 years
+3225,3,2,4,1,3,2,4,5,4,3,3,3,3,3,3,3,4,4,3,5,5,3,3,3,4,4,4,3,4,Sporting Dogs,12 to 15 inches ,40 to 95 pounds,10 to 12 years
+3226,3,3,4,2,3,5,3,4,4,3,3,3,3,1,5,3,3,2,4,2,4,3,4,2,5,4,5,4,4,Hound Dogs,21 to 25 inches at the shoulder,48 to 55 pounds,6 to 10 years
+3227,3,3,3,3,4,1,4,4,4,2,2,4,3,1,1,3,3,1,3,3,4,2,1,2,1,2,4,2,3,Terrier Dogs,10 to 14 inches,30 to 60 pounds,10 to 15 years
+3228,3,2,5,2,4,4,5,5,5,5,5,3,3,1,5,3,3,3,4,5,4,5,5,4,5,5,5,5,5,Hound Dogs,16 to 25 inches,11 to 15 pounds,13 to 15 years
+3229,3,3,3,2,4,3,3,4,3,3,3,2,3,2,5,4,4,2,3,4,4,3,3,4,3,3,3,3,4,Mixed Breed Dogs,6 inches to 9 inches tall at the shoulder,80 to 150 pounds,11 to 14 years old
+3230,3,1,4,1,3,3,4,5,5,4,3,4,4,4,5,3,3,4,2,4,4,2,3,3,3,4,4,5,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,11 to 16 years 
+3231,3,3,3,2,1,2,3,4,5,2,2,3,3,1,4,4,3,2,4,3,4,4,2,3,1,3,2,2,3,Mixed Breed Dogs,10 to 14 inches,8 to 14 pounds,12 to 14 years
+3232,3,2,5,2,3,3,4,5,5,3,5,3,1,2,4,3,3,3,5,5,3,3,3,4,3,4,4,3,5,Mixed Breed Dogs,12 to 22 inches,40 to 60 pounds,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+3233,3,3,4,2,2,3,4,4,5,2,4,3,4,1,1,3,3,3,4,3,4,3,3,2,2,4,4,3,4,Mixed Breed Dogs,"1 foot, 11 inches to 2 feet, 6 inches tall at the shoulder",50 to 110 pounds,6 to 8 years
+3234,3,2,3,2,4,3,5,5,5,1,5,3,3,2,1,5,2,3,4,4,4,5,2,4,4,4,4,2,4,Mixed Breed Dogs,12 to 15 inches ,30 to 60 pounds,12 to 15 years
+3235,3,4,4,2,4,2,5,4,4,3,3,3,2,1,4,4,2,1,3,2,4,4,4,4,2,4,4,4,4,Mixed Breed Dogs,22 to 30 inches.,50 to 90 pounds,10 to 13
+3236,4,3,3,3,4,3,3,4,3,1,2,3,1,1,4,4,3,3,3,3,4,3,5,4,1,3,4,1,4,Companion Dogs,22 inches to 26 inches tall at the shoulder,18 to 30 pounds,14 to 15 years
+3237,2,2,3,2,5,5,5,5,4,5,4,3,3,3,3,3,2,3,3,3,5,3,5,3,4,4,4,2,4,Terrier Dogs,12 to 15 inches. ,70 to 115 pounds,12 to 14 years
+3238,4,4,5,3,2,2,3,4,3,3,2,3,3,1,5,2,3,1,3,2,4,4,2,5,3,3,4,4,3,Hybrid Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 15 years
+3239,3,2,5,1,2,4,5,5,5,4,4,2,3,1,5,4,3,2,4,5,4,4,3,3,5,5,5,5,5,Hound Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3240,3,4,3,3,1,3,3,4,2,3,3,3,1,1,4,3,3,2,3,3,4,4,3,4,3,4,4,3,4,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",44 to 55 pounds. ,12 to 15 years
+3241,4,4,5,3,3,2,3,4,3,3,3,2,3,1,5,3,2,3,4,4,4,2,4,2,2,4,4,3,4,Herding Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",12 to 22 pounds,12 to 15 years
+3242,3,4,4,1,3,3,4,5,5,4,3,4,5,1,5,3,3,4,4,4,5,3,2,2,3,4,5,4,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 16 years
+3243,4,5,5,2,4,3,5,5,4,4,5,3,2,1,3,3,4,3,3,3,3,2,2,2,2,4,4,3,4,Companion Dogs,12 to 15 inches. ,30 to 60 pounds,10 to 15 years
+3244,3,4,3,2,3,3,3,5,5,3,3,3,3,1,4,4,2,2,4,3,4,2,5,2,1,4,4,4,4,Mixed Breed Dogs,23 to 27 inches,8 to 15 pounds ,12 to 15 years
+3245,3,4,4,1,3,4,4,5,4,4,4,3,1,1,5,4,4,4,4,4,5,3,4,5,4,5,5,4,5,Terrier Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3246,3,2,4,1,1,4,4,4,3,3,2,2,2,1,5,4,5,2,3,4,3,3,3,2,3,5,5,4,4,Mixed Breed Dogs,17 to 20 inches ,40 to 180 pounds,12 to 13 years
+3247,3,5,4,3,2,2,4,5,4,4,2,3,1,2,4,3,4,2,3,3,4,2,3,4,3,4,4,3,4,Mixed Breed Dogs,12 to 15 inches ,40 to 70 pounds,12 to 15 years
+3248,3,2,4,3,3,4,3,4,5,3,3,2,3,1,4,5,4,2,4,2,4,3,3,5,5,5,5,4,5,Hound Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 13 years
+3249,3,3,4,2,3,2,4,5,4,4,4,4,4,2,5,4,3,4,3,4,4,3,3,2,3,5,5,4,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3250,3,2,5,2,3,4,5,5,5,5,5,3,4,2,2,4,5,4,4,4,5,2,3,2,3,5,5,5,5,Mixed Breed Dogs,6 to 14 inches,30 to 80 pounds ,10 to 12 years
+3251,3,2,4,1,2,4,4,5,4,5,4,4,4,1,5,4,3,4,4,4,4,4,4,3,5,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,12 to 15 years
+3252,3,2,4,2,5,3,4,5,3,3,1,3,4,1,3,4,3,3,3,4,3,2,3,2,2,4,4,2,4,Sporting Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",11 to 15 pounds,10 to 14 years
+3253,3,3,3,1,4,5,3,4,3,3,3,3,3,1,5,2,5,2,3,3,3,3,2,3,4,3,4,3,4,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",8 to 14 pounds,12 to 12 years
+3254,4,3,5,2,5,5,5,5,5,5,3,3,4,2,3,4,4,2,4,5,4,2,4,4,4,4,5,3,5,Companion Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years
+3255,3,2,3,2,2,2,3,4,3,2,3,3,3,1,3,4,3,2,3,3,3,4,5,5,1,5,4,3,3,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,10 to 14 years
+3256,4,3,3,2,4,3,5,5,5,4,5,3,1,1,4,4,3,4,4,3,4,3,3,4,3,4,5,2,4,Herding Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",15 to 19 pounds,10 to 12 years.
+3257,2,3,4,1,4,2,4,5,4,3,4,3,3,1,2,1,3,1,4,4,4,3,3,2,5,5,5,3,5,Herding Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",9 to 15 pounds,6 to 8 years
+3258,4,1,4,2,5,4,4,5,5,4,4,4,4,3,3,3,4,4,4,4,5,2,1,3,2,4,5,3,5,Mixed Breed Dogs,20 to 27 inches ,Starts at 30 pounds,12 to 15 years
+3259,3,5,3,3,3,2,4,5,3,3,3,3,3,1,4,3,3,1,3,4,4,3,2,3,1,3,3,3,3,Companion Dogs,12 to 16 inches,7 to 12 pounds,12 to 15 years
+3260,4,2,4,2,4,2,4,5,4,3,5,4,4,1,3,5,3,2,4,2,4,3,4,1,4,4,4,3,4,Terrier Dogs,20 to 28 inches,75 to 140 pounds,12 to 16 years 
+3261,2,1,3,3,5,1,3,5,5,2,1,4,3,4,5,2,3,5,4,3,3,4,5,5,4,2,5,5,3,Working Dogs,12 to 16 inches ,45 to 70 pounds,6 to 10 years
+3262,4,5,3,2,3,2,4,5,4,3,3,3,3,2,3,3,4,3,4,3,3,2,4,4,3,4,4,3,4,Companion Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",25 to 35 pounds. ,13 to 18 years
+3263,3,5,3,1,2,1,4,5,4,3,4,2,2,1,5,2,3,1,3,4,4,3,3,5,2,3,5,3,5,Companion Dogs,"1 foot, 3 inches to 1 foot, 5 inches tall at the shoulder",70 to 80 pounds,9 to 15 years
+3264,3,2,4,2,4,3,4,5,4,4,3,4,4,3,2,4,4,4,3,5,4,2,1,2,3,4,5,3,5,Working Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",8 to 18 pounds ,10 to 15 years
+3265,3,3,4,1,3,4,4,5,4,3,4,3,4,2,4,3,4,4,4,5,5,3,3,2,3,4,5,3,5,Mixed Breed Dogs,8 to 18 inches ,7 to 38 pounds,9 to 11 years 
+3266,3,3,3,2,3,2,3,4,4,2,3,3,2,1,2,3,3,2,4,3,4,4,4,4,2,4,5,3,4,Terrier Dogs,12 to 13 inches ,25 to 27 pounds,12 to 14 years
+3267,3,5,4,1,3,4,4,5,4,2,3,3,2,1,5,4,3,1,3,5,4,3,4,3,3,5,5,4,5,Herding Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3268,3,3,5,2,2,2,4,4,4,3,2,2,3,1,5,4,2,1,4,2,3,4,3,4,3,4,4,4,3,Mixed Breed Dogs,11 to 24 inches,120 to 180 pounds,12 to 16 years
+3269,4,4,4,4,4,2,5,5,5,4,4,3,2,1,3,4,2,2,4,5,4,2,3,2,2,4,4,3,5,Mixed Breed Dogs,19 to 22 inches,13 to 17 pounds,12 to 15 years
+3270,3,1,4,1,2,2,4,5,4,4,5,3,4,2,4,2,4,4,4,4,4,2,4,2,3,4,5,3,5,Working Dogs,8 to 18 inches ,Starts at 20 pounds,9 to 15 years
+3271,3,4,4,1,2,4,5,5,4,5,4,3,4,1,5,4,4,5,3,5,5,3,3,3,2,5,4,4,5,Mixed Breed Dogs,26 to 35 inches,40 to 180 pounds,10 to 14 years
+3272,3,4,5,2,2,3,4,2,3,3,2,3,1,1,4,3,3,2,3,4,4,3,1,2,2,3,4,1,3,Mixed Breed Dogs,21 to 25 inches at the shoulder,10 to 20 pounds,12 to 14 Years
+3273,4,5,4,3,3,4,4,5,4,4,3,4,1,3,2,3,3,3,3,4,5,2,3,2,3,3,5,2,5,Hybrid Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",115 to 180 pounds,10 to 15 years
+3274,4,2,4,2,5,3,5,5,5,5,5,3,3,2,3,3,2,3,3,2,4,3,4,4,5,4,5,5,4,Sporting Dogs,16 to 25 inches,44 to 50 pounds,10 to 15 years
+3275,3,1,3,5,5,3,4,5,5,5,3,4,3,2,5,3,3,4,3,4,5,1,5,4,5,4,4,3,5,Hound Dogs,12 to 16 inches ,30 to 60 pounds,7 to 9 years
+3276,2,2,2,3,5,2,2,5,5,2,2,4,4,4,4,2,4,5,4,3,5,3,2,2,3,4,2,3,4,Working Dogs,19 to 24 inches,30 to 60 pounds,10 to 12 years
+3277,3,3,4,1,3,4,4,4,4,1,4,3,2,1,5,2,3,2,4,2,4,3,4,5,3,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,3 to 6 pounds,12 to 15 years
+3278,4,5,5,2,4,4,4,5,4,4,4,2,1,1,5,3,4,4,3,4,4,2,3,2,2,4,4,3,4,Companion Dogs,8 to 18 inches ,50 to 125 pounds ,12 to 15 years
+3279,2,2,4,2,5,3,5,5,5,4,5,4,4,5,3,4,3,4,3,4,5,4,3,5,3,4,4,4,5,Sporting Dogs,26 to 34 inches tall at the shoulder,Starts at 30 pounds,10 to 11 years
+3280,3,1,4,3,3,3,4,5,4,2,4,4,4,2,5,3,3,4,3,4,4,3,3,3,3,5,5,3,5,Working Dogs,8 to 10 inches,50 to 90 pounds,10 to 12 years
+3281,3,2,5,2,2,3,4,4,4,4,4,2,2,1,4,3,4,4,3,2,4,3,3,2,3,4,5,4,5,Hound Dogs,20 to 25 inches,40 to 180 pounds,12 to 15 years
+3282,3,5,4,1,4,2,4,5,4,4,4,2,1,1,3,2,4,4,3,4,5,3,2,2,3,3,3,3,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 13 pounds,12 to 15 years
+3283,3,5,4,1,2,2,4,5,4,3,4,2,1,1,5,3,4,1,3,4,4,3,3,3,2,5,4,4,4,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,13 to 18 years
+3284,3,3,3,3,3,3,3,4,4,1,2,2,2,1,4,3,3,1,3,3,4,4,5,3,3,3,3,2,4,Mixed Breed Dogs,6 to 9 inches ,30 to 50 pounds,12 to 15 years 
+3285,3,5,5,1,3,4,5,5,5,3,4,3,2,1,5,4,4,2,4,5,5,2,3,4,5,5,4,3,4,Mixed Breed Dogs,22 to 30 inches.,40 to 180 pounds,12 to 15 years
+3286,4,3,5,4,4,2,5,5,5,5,5,2,3,1,2,3,5,2,3,4,5,3,3,1,2,4,5,3,5,Companion Dogs,18 to 25 inches,15 to 17 pounds,12 to 15 years
+3287,3,2,4,2,3,3,5,5,4,3,4,2,3,1,1,4,4,3,3,2,3,2,1,3,2,3,3,3,5,Companion Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",30 to 60 pounds,11 to 13 years
+3288,3,3,2,2,5,2,3,4,4,2,2,3,3,1,2,3,3,2,3,3,4,4,3,1,1,3,3,3,3,Companion Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",18 to 30 pounds,12 to 15 years. 
+3289,4,4,4,1,2,4,4,4,5,2,3,3,2,1,4,3,3,2,4,1,4,3,4,2,3,5,4,3,5,Mixed Breed Dogs,16 to 25 inches ,9 to 15 pounds,9 to 15 years
+3290,4,3,3,1,4,4,4,4,4,3,3,3,4,1,1,5,3,3,4,3,4,2,4,4,4,5,4,4,5,Terrier Dogs,22 inches to 26 inches tall at the shoulder,48 to 55 pounds,12 to 14 Years
+3291,2,1,3,3,4,2,4,5,2,3,2,4,4,5,5,2,3,5,3,3,3,3,2,3,4,5,3,4,5,Working Dogs,23 to 28 inches,110 to 200 pounds,10 to 12 years
+3292,2,1,3,1,5,1,5,5,5,2,2,4,5,5,3,1,3,5,4,3,3,5,5,3,2,2,2,2,2,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,6 to 10 years
+3293,3,3,3,3,2,2,4,4,3,2,3,2,3,1,3,4,3,1,3,3,3,3,2,4,3,4,3,3,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,12 - 15 years
+3294,3,3,3,1,4,4,4,5,5,4,4,3,4,3,5,2,4,4,3,5,5,4,4,3,2,4,4,4,5,Mixed Breed Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",30 to 80 pounds ,12 to 15 years
+3295,3,3,4,2,2,4,4,5,4,4,4,3,2,1,5,3,4,4,4,5,4,2,3,2,3,4,4,4,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,12 to 14 years
+3296,2,3,4,1,2,3,4,4,5,3,2,4,2,1,5,3,3,2,4,2,4,3,3,4,3,4,5,4,5,Mixed Breed Dogs,7 inches to 1 foot tall at the shoulder,9 to 15 pounds,13 to 16 years
+3297,3,3,4,1,2,4,5,5,3,5,2,3,2,1,5,3,4,4,4,5,5,3,5,4,5,4,5,4,5,Mixed Breed Dogs,12 to 13 inches at the shoulder,120 to 180 pounds,12 to 17 years
+3298,3,3,3,2,1,3,3,4,3,3,3,3,1,1,3,2,2,2,3,3,3,2,1,3,3,4,4,3,3,Mixed Breed Dogs,6 inches to 9 inches tall at the shoulder,40 to 55 pounds,13 to 14 years
+3299,3,3,4,1,4,4,4,5,4,3,4,3,3,1,2,4,3,4,3,5,4,3,3,2,3,5,5,4,5,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3300,4,4,3,2,4,2,4,5,5,3,4,3,2,2,1,3,2,5,3,3,4,1,5,3,2,4,4,3,4,Sporting Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",70 to 115 pounds,12 to 15 years. 
+3301,3,5,4,2,3,2,4,5,4,4,3,4,4,2,3,3,4,4,3,4,4,3,3,2,2,4,5,3,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years
+3302,3,2,3,2,5,3,4,5,2,5,2,3,3,3,4,3,5,3,4,4,3,2,5,4,3,5,4,3,4,Sporting Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",18 to 30 pounds,10 to 15 years
+3303,3,1,4,1,2,3,5,5,5,5,5,4,4,1,5,2,4,4,3,3,4,4,3,4,5,4,4,4,5,Mixed Breed Dogs,"1 foot, 3 inches to 2 feet, 2 inches tall at the shoulder",40 to 180 pounds,12 to 15 years
+3304,3,2,3,1,4,4,4,4,4,5,3,3,2,1,5,3,3,3,4,5,4,3,5,4,4,5,5,4,5,Mixed Breed Dogs,11 to 24 inches,Starts at 20 pounds,11 to 15 years
+3305,4,5,3,1,4,2,4,5,4,3,4,2,4,1,5,3,4,1,3,2,4,1,3,5,2,4,4,3,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,12 to 15 years
+3306,3,4,4,2,1,4,3,4,3,2,2,3,2,1,5,4,3,2,4,3,4,3,5,5,4,4,5,4,5,Hound Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",25 to 27 pounds,10 to 16 years
+3307,3,4,4,2,3,3,3,5,4,3,3,3,1,1,5,4,4,3,3,2,4,3,3,2,3,4,4,3,4,Herding Dogs,8 to 18 inches ,60 to 95 pounds ,12 to 15 years
+3308,3,4,2,3,4,4,3,4,2,3,2,3,3,1,1,2,2,2,3,4,4,3,3,4,2,4,4,3,4,Terrier Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",40 to 70 pounds,12 to 15 years 
+3309,3,3,2,1,3,1,3,4,3,3,3,3,3,3,5,3,3,1,3,2,3,3,2,4,3,4,3,3,4,Mixed Breed Dogs,10 to 25 inches,30 to 50 pounds,11 to 13 Years
+3310,3,3,5,1,3,4,3,4,5,5,2,3,2,1,5,4,3,2,4,5,5,1,5,4,5,5,5,5,5,Terrier Dogs,22 inches to 26 inches tall at the shoulder,14 to 16 pounds,10 to 14 years
+3311,2,1,5,2,5,4,4,5,5,5,4,4,3,1,5,2,3,4,4,1,5,3,4,3,5,4,5,4,5,Working Dogs,10 to 18 inches,9 to 15 pounds,10 to 12 years
+3312,3,2,5,3,4,3,4,5,4,3,3,3,2,5,3,2,3,4,4,4,4,3,3,3,3,3,5,4,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 15 pounds,12 to 13 years
+3313,3,4,4,2,3,3,4,5,5,4,3,3,4,3,3,2,2,3,3,5,4,2,3,3,3,4,4,3,4,Sporting Dogs,12 to 15 inches ,70 to 115 pounds,10 to 13 years
+3314,3,5,5,1,3,2,4,5,4,3,3,4,2,1,5,3,3,5,3,2,4,1,3,4,5,5,5,4,5,Mixed Breed Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",120 to 180 pounds,10 to 14 years
+3315,4,4,5,2,1,2,5,5,5,5,5,3,3,1,1,3,5,1,4,5,4,4,3,4,3,4,3,2,4,Companion Dogs,12 to 16 inches ,18 to 30 pounds,12 to 14 years
+3316,2,1,5,4,5,3,5,5,4,5,5,4,5,4,3,3,3,3,4,5,5,5,5,1,3,4,4,5,4,Sporting Dogs,19 to 24 inches,70 to 115 pounds,10 to 14 years
+3317,3,4,4,2,4,4,5,4,5,5,3,3,2,1,5,4,3,5,4,4,4,3,4,4,4,5,4,3,4,Mixed Breed Dogs,24 to 26 inches,45 to 80 pounds,11 to 15 years
+3318,3,4,3,2,3,3,5,5,5,5,5,3,3,1,2,3,3,2,4,3,3,4,5,4,4,2,3,2,4,Working Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",10 to 20 pounds,12 to 15 years 
+3319,3,1,3,1,2,4,5,5,5,2,4,4,4,1,2,3,3,4,4,2,5,4,3,4,5,5,5,5,5,Sporting Dogs,23 to 27 inches tall at the shoulder,9 to 15 pounds,10 to 14 years
+3320,3,4,3,3,5,3,4,2,5,3,2,3,3,5,4,5,2,2,3,3,3,2,1,4,2,3,3,2,4,Companion Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",7 to 12 pounds,13 to 15 years
+3321,3,2,3,3,4,3,3,5,4,2,3,3,1,1,4,4,3,1,3,3,4,4,2,2,4,3,3,2,4,Companion Dogs,12 to 16 inches,7 to 12 pounds,12 to 15 years
+3322,3,2,4,3,4,2,4,5,4,4,4,4,4,2,5,3,3,4,3,4,4,3,3,3,2,4,5,5,5,Hound Dogs,8 to 18 inches ,40 to 50 pounds,12 to 15 years
+3323,4,3,4,3,4,3,5,4,3,2,5,3,3,1,5,3,2,3,4,3,5,4,5,4,5,4,4,2,5,Sporting Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",18 to 30 pounds,10 to 12 years
+3324,3,2,4,2,4,4,4,5,5,5,5,4,4,2,4,3,4,4,4,4,3,3,3,1,3,5,5,4,5,Mixed Breed Dogs,20 to 27 inches ,14 to 18 pounds,12 to 15 years 
+3325,3,2,4,1,2,3,4,5,4,4,4,4,4,2,2,4,4,4,3,5,5,3,3,2,2,4,5,4,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years
+3326,3,4,3,2,5,2,4,5,5,4,2,3,4,1,3,3,3,2,3,3,4,4,2,2,2,3,3,2,4,Working Dogs,12 to 16 inches ,7 to 12 pounds,12 to 14 years
+3327,4,5,3,3,3,3,5,5,4,4,4,3,1,1,1,5,3,2,4,5,4,3,3,3,3,4,4,3,5,Companion Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",44 to 50 pounds,12 to 15 years
+3328,3,2,4,3,3,3,3,4,3,3,2,3,2,1,2,5,3,2,4,2,4,4,4,5,3,4,4,4,4,Mixed Breed Dogs,22 to 30 inches.,15 to 35 pounds ,10 to 12 years
+3329,3,2,3,2,5,3,4,5,5,4,1,3,4,2,3,1,2,5,3,3,4,2,4,1,1,4,4,2,4,Working Dogs,16 to 25 inches,70 to 115 pounds,10 to 14 years
+3330,4,4,5,3,1,4,3,4,4,5,2,3,2,1,3,5,3,3,4,3,3,4,5,4,3,4,4,2,4,Working Dogs,22 inches to 26 inches tall at the shoulder,18 to 30 pounds,12 to 14 years
+3331,3,3,2,5,4,4,4,5,4,5,5,3,5,2,3,4,3,3,4,5,4,2,2,1,4,5,5,4,5,Sporting Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",50 to 60 pounds,10 to 14 years
+3332,3,2,4,1,3,2,4,5,4,4,4,4,4,2,3,2,3,3,4,4,3,3,4,3,2,3,5,3,5,Mixed Breed Dogs,16 to 25 inches ,55 to 70 pounds,10 to 14 years
+3333,3,2,4,1,2,2,4,5,4,4,4,2,4,2,5,2,4,4,3,4,5,3,3,2,3,5,5,3,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,10 to 12 years
+3334,4,1,5,1,4,4,4,4,5,3,2,2,2,1,5,4,3,2,3,3,3,1,3,4,4,4,4,4,4,Mixed Breed Dogs,22 to 30 inches.,100 to 130 pounds,14 to 15 years
+3335,3,2,3,2,4,3,3,5,4,1,2,3,3,2,3,3,2,3,3,3,4,4,5,3,2,4,3,2,3,Sporting Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",7 to 12 pounds,12 to 15 years
+3336,3,5,3,2,4,3,4,5,5,3,4,3,3,2,2,3,4,2,3,5,4,4,1,2,4,4,3,3,4,Working Dogs,12 to 16 inches,70 to 115 pounds,12 to 14 years
+3337,3,2,4,1,2,4,4,5,4,4,4,4,4,1,2,2,4,4,3,4,5,2,3,2,3,5,5,4,5,Sporting Dogs,8 to 18 inches ,Starts at 20 pounds,10 to 14 years
+3338,3,2,2,3,3,2,4,5,4,3,3,4,3,2,2,2,3,5,3,4,4,2,2,3,1,5,2,3,4,Hybrid Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",33 to 40 pounds,12 to 15 years
+3339,3,3,4,1,3,4,4,5,4,3,3,3,4,1,5,2,3,4,4,2,4,3,3,5,3,5,5,4,5,Mixed Breed Dogs,16 to 25 inches ,9 to 15 pounds,8 to 11 years
+3340,3,5,3,1,2,2,4,5,4,4,4,2,1,2,2,2,4,4,3,5,4,2,3,2,3,5,5,3,4,Companion Dogs,20 to 25 inches,9 to 15 pounds,12 to 15 years
+3341,3,4,4,2,4,3,4,4,4,4,3,2,2,1,1,3,5,1,3,3,5,2,1,5,3,4,3,1,5,Terrier Dogs,15 to 30 inches,25 to 30 pounds,12 to 14 years
+3342,3,2,4,1,3,3,5,5,4,4,4,3,4,2,3,3,4,4,3,4,4,4,3,3,3,4,2,4,5,Mixed Breed Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",30 to 80 pounds ,Up to 15 years
+3343,3,2,4,3,2,4,4,4,5,2,2,3,2,1,5,4,3,2,3,2,4,4,4,4,5,5,5,4,4,Hound Dogs,22 to 30 inches.,40 to 180 pounds,10 to 12 years
+3344,4,4,4,1,4,2,4,5,4,4,4,3,4,3,1,2,3,4,3,4,4,2,1,2,2,4,5,3,5,Sporting Dogs,12 to 15 inches ,70 to 115 pounds,10 to 14 years
+3345,4,5,2,1,2,3,3,4,3,3,3,2,1,1,3,2,4,1,3,3,4,2,2,5,1,3,3,2,4,Companion Dogs,17 to 20 inches.,45 to 55 pounds,12 to 15 years
+3346,3,2,3,2,3,2,3,4,2,3,2,3,2,1,2,4,4,2,3,2,4,4,2,3,2,4,4,4,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,48 to 55 pounds,10 to 13 years
+3347,2,3,4,2,4,3,3,4,2,1,2,3,2,1,5,2,3,3,4,3,3,2,5,3,5,3,3,4,4,Mixed Breed Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",80 to 110 pounds,12 to 14 years
+3348,3,2,4,2,5,4,4,5,5,3,2,4,2,4,5,4,3,3,5,5,5,2,3,4,3,5,5,4,5,Mixed Breed Dogs,"2 feet to 2 feet, 3 inches tall at the shoulder",9 to 15 pounds,8 to 12 years
+3349,3,3,3,1,4,2,4,5,5,4,3,4,4,1,5,3,4,4,4,4,4,4,3,3,3,4,5,5,4,Working Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 18 years
+3350,3,3,5,2,4,4,4,5,5,5,3,3,2,1,5,4,3,4,4,5,5,1,3,3,5,5,5,4,5,Terrier Dogs,20 to 25 inches,9 to 15 pounds,12 to 15 years
+3351,3,1,2,2,4,4,3,4,5,2,2,3,3,1,5,3,4,3,4,5,3,4,4,1,4,5,5,5,4,Working Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",45 to 100 pounds,8 to 12 years
+3352,3,3,3,2,2,4,5,4,3,5,3,3,3,1,4,5,2,3,4,2,4,4,5,4,5,5,5,5,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",80 to 110 pounds,9 to 13 years
+3353,4,1,3,1,3,3,3,4,3,3,2,3,1,1,2,4,3,2,3,2,4,4,4,2,3,3,4,4,3,Herding Dogs,"Up to 1 foot, 2 inches tall at the shoulder",44 to 55 pounds. ,9 to 15 years
+3354,3,4,4,2,1,4,3,4,3,3,2,3,2,1,5,5,3,2,4,3,3,3,2,4,5,4,4,4,4,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",14 to 16 pounds,12 to 14 years
+3355,3,3,2,2,3,3,3,4,3,2,2,3,3,1,5,4,3,3,4,2,4,3,5,5,5,5,5,3,5,Sporting Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years
+3356,3,1,5,3,2,4,3,4,3,2,2,3,3,1,4,3,3,1,3,5,3,4,5,3,4,4,4,5,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years
+3357,3,2,3,2,3,2,4,5,4,4,4,4,4,1,3,3,4,3,3,4,3,3,3,2,2,4,5,3,5,Herding Dogs,8 to 18 inches ,4 to 16 pounds ,12 to 14 years
+3358,3,2,4,3,3,2,4,5,4,4,3,3,4,1,3,4,4,4,3,4,5,2,3,2,3,4,4,3,4,Mixed Breed Dogs,8 inches to 10 inches tall at the shoulder,70 to 115 pounds,10 to 15 years
+3359,3,2,4,1,2,2,4,5,4,4,4,4,4,4,3,2,3,2,3,4,4,3,3,3,2,5,4,4,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,12 to 15 years
+3360,3,2,4,1,3,2,4,5,5,4,4,4,4,1,4,4,4,4,3,5,5,3,3,2,2,5,4,3,5,Mixed Breed Dogs,15 to 30 inches,40 to 180 pounds,8 to 15 years
+3361,3,3,3,3,1,2,3,3,2,2,2,3,4,1,5,2,2,3,3,2,3,4,5,1,1,3,3,2,3,Working Dogs,"Up to 1 foot, 2 inches tall at the shoulder",110 to 200 pounds,10 to 12 years
+3362,3,3,4,1,4,3,4,5,4,4,4,4,4,2,2,4,3,4,3,5,4,3,4,2,3,5,5,4,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3363,3,2,5,3,4,3,4,5,2,3,3,4,3,2,4,3,1,3,3,4,5,2,2,2,2,3,4,3,4,Mixed Breed Dogs,12 to 15 inches ,10 to 20 pounds,10 to 14 years. 
+3364,4,4,4,2,4,4,5,5,5,4,5,3,3,2,3,4,1,4,4,5,5,2,4,2,3,4,4,3,4,Working Dogs,19 to 24 inches,70 to 115 pounds,13 to 14 years
+3365,3,2,3,3,2,3,3,4,4,2,3,2,4,1,5,4,2,2,3,3,3,3,5,4,5,3,5,3,4,Sporting Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,12 to 16 years
+3366,2,2,3,2,4,1,4,5,5,3,3,4,4,2,3,3,3,3,4,3,5,5,2,3,3,4,4,3,4,Mixed Breed Dogs,27 to 32 inches tall at the shoulder,22 to 55 pounds,10 to 13 years
+3367,3,2,4,1,3,4,4,5,4,4,4,2,4,1,5,2,3,4,3,5,4,3,3,2,3,5,5,3,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3368,3,2,5,2,3,2,4,5,5,5,5,3,3,3,3,5,5,3,3,3,5,5,5,4,3,4,4,3,4,Sporting Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,10 to 14 years
+3369,3,2,4,1,4,4,5,5,5,3,4,4,3,1,4,4,4,4,3,5,4,3,4,2,4,4,5,4,5,Mixed Breed Dogs,"1 foot, 3 inches to 2 feet, 2 inches tall at the shoulder",9 to 13 pounds,10 to 15 years
+3370,3,4,5,1,1,4,4,5,5,2,5,2,3,1,5,3,4,2,4,2,4,3,3,2,3,3,5,4,4,Mixed Breed Dogs,16 to 25 inches ,120 to 180 pounds,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+3371,3,2,5,2,4,3,4,5,4,4,3,3,1,1,3,4,3,2,3,1,5,1,3,2,2,4,5,4,5,Sporting Dogs,17 to 20 inches tall at the shoulder,13 to 25 pounds,10 to 14 years
+3372,3,2,4,2,2,2,4,4,4,2,2,3,4,1,2,3,3,3,4,5,4,2,3,2,3,4,4,4,4,Mixed Breed Dogs,10 inches to 1 foot tall at the shoulder,9 to 15 pounds,12 to 15 years
+3373,3,2,3,1,2,3,4,5,4,3,4,3,2,1,4,2,3,2,4,1,4,3,4,3,2,4,4,4,4,Herding Dogs,16 to 25 inches ,Starts at 20 pounds,12 to 16 years
+3374,4,4,5,2,4,3,3,4,5,4,4,3,3,1,2,1,2,2,3,3,4,2,4,4,2,3,4,2,4,Herding Dogs,"Up to 1 foot, 2 inches tall at the shoulder",18 to 30 pounds,12 to 14 years
+3375,2,1,5,2,4,1,5,5,5,2,1,4,5,3,5,1,5,4,2,3,4,5,2,1,4,4,2,1,1,Working Dogs,19 to 24 inches,20 to 30 pounds,12 to 12 years
+3376,3,3,4,2,3,3,4,5,4,4,5,2,3,1,2,3,3,3,4,3,4,2,4,1,2,4,4,4,4,Hound Dogs,27 to 32 inches tall at the shoulder,70 to 115 pounds,12 to 15 years
+3377,4,2,4,2,2,3,5,5,5,5,4,3,5,1,4,4,2,2,3,3,4,2,4,4,3,4,5,3,5,Sporting Dogs,22 inches to 26 inches tall at the shoulder,25 to 35 pounds. ,10 to 12 years
+3378,3,2,4,1,4,3,4,4,5,3,5,4,5,3,1,4,5,3,4,4,5,4,3,4,5,5,5,4,4,Herding Dogs,"1 foot, 7 inches to 1 foot, 10 inches tall at the shoulder",6 to 12 pounds,12 to 16 years 
+3379,4,2,4,3,4,4,4,5,4,4,4,2,2,1,5,3,2,2,3,3,4,2,3,3,2,4,4,3,4,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years
+3380,3,2,3,3,4,2,4,5,4,3,3,3,4,2,3,4,3,4,3,4,4,3,3,4,3,4,5,5,5,Working Dogs,27 to 32 inches tall at the shoulder,115 to 180 pounds,10 to 14 years
+3381,4,3,3,1,4,3,4,5,5,4,4,3,2,1,3,4,2,3,3,3,4,4,4,4,4,4,5,2,4,Terrier Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",70 to 115 pounds,12 to 14 years
+3382,3,2,2,3,5,2,4,5,4,3,2,2,4,2,2,4,3,3,3,2,5,3,4,1,3,4,5,3,4,Sporting Dogs,12 to 16 inches,10 to 25 pounds,10 to 13 years
+3383,3,5,4,3,1,3,3,4,3,5,5,3,2,1,5,4,4,2,3,3,4,4,4,4,5,4,4,4,4,Hound Dogs,12 to 20 inches,75 to 140 pounds,12 to 15 years
+3384,3,3,4,3,4,3,5,5,5,5,5,3,2,1,5,4,4,3,3,2,4,3,4,4,5,5,5,4,5,Sporting Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",15 to 35 pounds ,10 to 12 years
+3385,3,2,3,1,4,2,4,5,4,4,2,3,4,1,3,3,4,2,3,3,3,4,2,2,2,3,4,1,4,Mixed Breed Dogs,"1 foot to 1 foot, 2 inches tall at the shoulder",45 to 70 pounds,8 to 11 years
+3386,3,3,3,2,4,3,3,5,3,3,3,3,2,1,3,3,2,1,3,3,4,4,5,4,3,4,4,2,5,Mixed Breed Dogs,12 to 15 inches ,50 to 110 pounds,10 to 18 years
+3387,3,1,4,1,4,4,4,5,5,4,4,3,4,1,5,4,3,4,4,5,5,2,4,2,3,5,5,5,5,Herding Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,10 to 15 years
+3388,3,4,4,2,4,2,4,5,4,3,4,2,2,2,3,3,4,1,3,1,4,2,3,4,2,4,4,3,3,Mixed Breed Dogs,9 to 12 inches,40 to 180 pounds,10 to 11 years
+3389,3,3,3,3,3,2,4,5,4,3,3,3,3,2,3,4,4,3,4,3,4,3,4,3,3,3,4,3,4,Mixed Breed Dogs,12 to 15 inches ,70 to 115 pounds,12 to 13 years
+3390,2,2,4,2,5,1,4,5,5,4,1,3,4,2,3,3,3,5,5,4,5,3,2,1,3,4,4,3,5,Working Dogs,24 to 31 inches tall at the shoulder,15 to 17 pounds,10 to 14 years
+3391,3,2,4,3,5,3,4,4,4,3,2,3,3,3,3,5,2,3,3,3,4,2,5,4,4,4,4,2,4,Sporting Dogs,12 to 16 inches,7 to 12 pounds,12 to 15 years
+3392,3,5,4,1,4,4,4,4,2,2,4,2,2,1,4,5,4,2,4,2,4,3,4,5,2,4,4,4,5,Terrier Dogs,16 to 25 inches ,9 to 15 pounds,10 to 15 years
+3393,3,4,4,2,2,4,4,4,3,5,3,3,3,1,5,3,3,3,3,4,4,4,3,4,5,5,4,3,5,Mixed Breed Dogs,"1 foot, 2 inches to 1 foot, 6 inches tall at the shoulder",15 to 35 pounds ,Starts at 10 years
+3394,3,2,4,1,4,4,4,5,5,4,2,3,4,2,1,4,3,3,3,3,4,3,4,2,2,4,5,3,5,Companion Dogs,24 to 30 inches,40 to 60 pounds,10 to 13 years
+3395,4,4,4,2,2,3,3,5,4,2,4,3,2,1,4,3,4,3,4,3,3,2,4,2,4,3,4,3,4,Terrier Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",70 to 115 pounds,10 to 15 years
+3396,3,2,4,2,4,4,5,5,5,2,5,3,3,1,5,1,3,4,3,5,4,5,5,1,3,5,4,5,5,Herding Dogs,"1 foot, 8 inches to 2 feet tall at the shoulder",20 to 50 pounds,7 to 9 years
+3397,4,4,4,3,3,2,4,4,3,4,3,2,3,1,2,3,3,1,3,4,4,4,3,4,3,3,3,3,3,Hybrid Dogs,12 to 15 inches ,70 to 115 pounds,12 to 17 years
+3398,3,5,3,2,4,3,3,3,3,2,3,3,2,1,1,2,3,2,3,3,4,4,5,2,1,3,3,2,4,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,18 to 30 pounds,12 to 15 years
+3399,3,3,4,2,3,3,4,5,4,3,4,2,2,1,2,4,3,3,3,2,4,4,5,4,5,5,5,5,5,Working Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,14 to 15 years
+3400,3,4,4,1,2,4,3,4,3,2,2,3,2,1,4,4,3,2,4,2,3,1,5,5,5,5,4,3,5,Mixed Breed Dogs,22 to 30 inches.,15 to 35 pounds ,14 to 17 years
+3401,4,3,5,1,4,2,5,5,5,4,4,3,2,1,3,4,4,4,3,4,5,2,3,2,2,4,4,3,4,Companion Dogs,8 to 18 inches ,5 to 25 pounds ,10 to 15 years
+3402,2,1,3,5,5,3,5,5,5,5,5,4,5,4,3,3,4,4,4,3,4,5,5,1,3,4,4,5,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3403,2,2,2,1,4,2,5,5,4,4,5,4,4,5,3,3,4,3,3,3,5,3,2,2,3,4,5,3,5,Working Dogs,8 inches to 10 inches tall at the shoulder,15 to 17 pounds,12 to 15 years
+3404,3,2,4,3,4,3,4,5,5,5,4,4,5,5,3,4,4,4,4,4,5,2,3,2,3,5,5,3,4,Terrier Dogs,26 to 34 inches tall at the shoulder,60 to 95 pounds ,13 to 15 years
+3405,2,2,3,2,4,3,5,5,5,5,5,3,3,5,5,3,5,4,4,5,5,2,5,4,4,4,5,5,5,Hound Dogs,16 to 25 inches,10 to 25 pounds,10 to 12 years
+3406,3,4,4,1,1,4,3,4,5,2,2,3,3,1,5,5,3,2,4,2,4,4,4,4,5,5,5,4,1,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years 
+3407,3,2,4,1,4,3,5,5,4,2,5,3,5,5,5,4,2,2,4,5,4,5,5,1,3,4,4,4,4,Hound Dogs,19 to 24 inches,30 to 60 pounds,11 to 15 years
+3408,3,5,4,1,3,2,4,5,4,4,3,2,1,1,3,3,4,1,3,4,4,2,3,2,2,3,3,3,4,Mixed Breed Dogs,18 to 23.5 inches,20 to 75 pounds,12 to 16 years
+3409,3,2,4,2,2,4,5,4,2,5,4,3,3,1,5,4,3,3,4,5,4,2,4,4,5,5,5,4,5,Herding Dogs,16 to 25 inches ,9 to 15 pounds,10 to 12 years.
+3410,3,4,4,4,4,2,5,5,5,3,3,4,4,2,3,3,3,3,3,3,4,2,3,4,3,4,3,3,4,Herding Dogs,12 to 15 inches. ,70 to 115 pounds,12 to 16 years
+3411,3,3,3,2,3,4,3,5,3,3,2,3,3,2,3,4,2,1,3,3,3,3,5,3,3,3,4,3,3,Companion Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",18 to 30 pounds,13 to 15 years
+3412,3,2,3,2,3,4,4,4,5,3,3,3,3,1,5,4,3,1,3,2,4,3,3,1,4,3,2,3,4,Herding Dogs,10 to 25 inches,55 to 70 pounds,12 to 15 years
+3413,3,4,2,3,2,2,4,4,1,3,4,3,3,1,2,3,5,4,4,1,4,3,3,3,2,4,4,3,4,Mixed Breed Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",50 to 60 pounds,12 to 18 years
+3414,2,3,3,3,2,3,4,5,5,5,5,3,4,4,3,4,3,3,4,3,4,1,1,4,4,4,4,2,4,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,10 to 14 years
+3415,4,4,4,3,4,2,4,5,4,3,3,3,1,1,3,3,3,3,4,4,4,5,4,5,4,5,5,4,4,Terrier Dogs,"2 feet, 8 inches to 2 feet, 11 inches tall at the shoulder",12 to 15 pounds,10 to 14 years. 
+3416,3,3,4,3,2,3,4,4,4,3,2,2,1,1,4,2,3,2,3,3,3,3,4,3,2,4,4,3,3,Mixed Breed Dogs,10 to 25 inches,15 to 35 pounds ,12 to 14 years
+3417,3,4,4,3,3,3,3,4,3,5,2,3,3,2,1,3,3,2,4,3,3,4,5,4,4,3,2,2,4,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,45 to 55 pounds,6 to 10 years
+3418,4,5,5,3,4,2,4,5,3,3,3,2,2,1,2,5,4,1,3,4,4,3,2,2,2,3,3,3,4,Companion Dogs,10 to 15 inches,12 to 15 pounds,12 to 15 years
+3419,4,3,3,3,4,2,3,3,3,3,3,3,1,1,1,4,3,2,3,3,4,2,2,3,1,3,3,3,4,Companion Dogs,12 to 16 inches,18 to 30 pounds,13 to 17+ years 
+3420,3,3,5,5,2,4,5,5,5,5,5,3,2,1,5,3,3,1,4,5,4,1,5,4,5,5,5,5,5,Companion Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",120 to 180 pounds,15 to 17 years
+3421,3,2,2,3,3,2,4,4,5,2,2,3,3,1,2,3,3,1,3,3,3,3,5,4,5,3,4,5,5,Herding Dogs,22 to 30 inches.,15 to 35 pounds ,12 to 14 years
+3422,3,2,2,2,3,1,3,5,5,1,1,3,3,4,5,2,3,3,2,4,3,3,2,2,2,2,3,2,4,Working Dogs,8 to 23 inches,45 to 70 pounds,10 to 13 years
+3423,3,2,4,2,3,2,4,5,4,3,4,4,2,3,4,4,4,4,3,3,3,3,3,2,2,4,5,3,4,Companion Dogs,"1 foot, 3 inches to 2 feet, 2 inches tall at the shoulder",5 to 20 pounds ,11 to 14 years
+3424,3,3,3,3,5,3,4,4,5,3,3,4,3,1,1,2,5,5,3,3,4,4,5,2,3,4,3,2,3,Working Dogs,12 to 15 inches. ,7 to 12 pounds,11 to 14 years old
+3425,4,4,4,1,4,4,5,5,4,5,4,2,1,1,2,4,4,2,3,3,4,4,3,2,4,4,4,4,5,Hybrid Dogs,22 to 30 inches.,50 to 90 pounds,7 to 10 years
+3426,2,2,5,1,5,3,5,5,5,5,5,4,3,5,1,3,4,4,4,5,5,3,3,1,4,5,5,5,5,Sporting Dogs,19 to 24 inches,30 to 60 pounds,10 to 14 years
+3427,4,5,2,1,4,2,4,5,3,3,3,2,3,1,5,3,3,1,3,4,5,3,3,4,2,4,3,3,4,Herding Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",7 to 15 pounds,12 to 15 years
+3428,3,4,5,1,4,3,4,5,3,3,3,3,5,2,3,4,3,3,4,4,4,2,3,3,3,5,4,5,5,Terrier Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",Starts at 30 pounds,10 to 14 years
+3429,3,2,2,3,5,2,4,5,2,2,5,4,3,3,4,2,3,3,3,3,4,4,4,4,4,3,3,2,4,Working Dogs,10 to 14 inches,45 to 55 pounds,6 to 8 years
+3430,3,2,4,1,2,4,4,5,4,3,4,2,5,1,5,4,4,3,3,5,5,2,3,3,3,5,5,3,5,Herding Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3431,3,2,3,3,4,2,5,5,4,3,5,3,3,3,3,1,3,3,4,5,5,3,5,4,3,4,4,5,4,Working Dogs,16 to 25 inches,30 to 60 pounds,12 to 15 years
+3432,4,5,4,2,3,3,3,5,4,4,4,3,1,1,4,4,1,2,4,5,4,2,3,4,2,4,4,3,4,Mixed Breed Dogs,12 to 13 inches ,100 to 180 pounds,12 to 15 years
+3433,2,3,4,3,4,1,5,5,5,5,2,4,5,3,4,4,2,4,3,2,3,2,3,3,2,4,4,3,5,Working Dogs,19 to 24 inches,25 to 35 pounds. ,12 to 14 years
+3434,4,3,3,2,4,3,3,4,3,5,3,3,1,1,2,5,3,3,4,3,4,2,5,2,1,3,4,3,4,Terrier Dogs,10 to 14 inches,7 to 12 pounds,12 to 15 years
+3435,3,2,4,2,2,2,5,5,4,3,3,3,4,1,4,3,1,3,4,5,4,2,5,4,5,4,4,2,4,Mixed Breed Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",17 to 23 pounds,10 to 13
+3436,3,2,3,2,4,3,3,5,5,1,2,3,3,1,1,4,3,2,3,3,4,4,5,4,5,4,4,5,5,Sporting Dogs,"Up to 1 foot, 2 inches tall at the shoulder",7 to 12 pounds,10 to 12 years
+3437,4,4,3,2,5,1,4,5,4,3,3,3,3,2,4,4,2,2,4,3,4,2,4,4,2,4,4,3,4,Mixed Breed Dogs,17 to 20 inches.,44 to 50 pounds,12 to 15 years
+3438,4,2,5,2,4,3,4,5,5,5,5,4,5,4,3,4,5,4,4,5,5,5,3,2,4,4,5,5,5,Mixed Breed Dogs,18 to 25 inches,40 to 60 pounds,12 to 15 years
+3439,3,2,3,2,4,2,4,5,5,5,5,3,3,3,2,4,3,5,2,3,4,4,5,4,4,4,4,2,4,Hound Dogs,12 to 15 inches. ,7 to 12 pounds,10 to 12 years
+3440,3,1,2,3,3,1,4,4,4,1,2,2,3,2,5,4,3,3,3,4,3,2,2,3,3,5,5,3,5,Working Dogs,"1 foot, 9 inches to 1 foot, 11 inches tall at the shoulder",9 to 20 pounds ,10 to 12 years
+3441,3,2,2,2,3,3,4,5,4,4,2,4,2,3,3,3,3,4,3,4,4,3,3,1,3,4,5,3,4,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",70 to 80 pounds,12 to 14 years
+3442,3,2,2,2,2,3,4,5,4,4,3,4,4,3,3,4,4,4,3,4,5,3,3,2,4,2,5,3,4,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years 
+3443,2,2,3,2,5,3,5,5,5,5,5,4,3,4,4,3,5,3,4,3,3,4,5,4,4,4,2,2,5,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",18 to 30 pounds,12 to 14 years
+3444,4,3,4,2,1,4,4,5,4,5,5,3,4,2,5,3,3,4,4,5,5,3,2,1,3,5,5,5,5,Companion Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",Starts at 20 pounds,10 to 14 years
+3445,3,5,4,2,5,3,4,5,5,4,4,2,2,1,4,3,3,1,4,4,4,2,3,3,2,4,5,4,5,Mixed Breed Dogs,9 to 14 inches,30 to 80 pounds ,12 to 15 years
+3446,3,1,4,1,4,4,4,5,4,4,4,4,4,2,3,3,4,5,3,5,5,3,3,2,3,4,5,3,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,10 to 14 years
+3447,4,5,5,1,4,2,4,5,4,3,4,2,3,4,2,3,4,1,3,4,3,3,4,3,3,3,3,2,4,Companion Dogs,8 to 18 inches ,9 to 13 pounds,12 to 15 years
+3448,3,1,3,4,2,2,4,5,3,5,4,3,4,4,1,3,5,1,4,3,3,3,1,1,3,4,4,3,5,Working Dogs,15 to 23 inches,13 to 18 pounds,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+3449,4,4,4,3,2,3,3,5,4,3,3,3,3,2,4,3,4,3,3,3,4,2,5,4,3,4,5,2,4,Working Dogs,12 to 16 inches,30 to 60 pounds,12 to 15 years
+3450,3,2,5,1,4,4,4,5,4,5,4,4,3,1,5,3,3,4,5,1,5,2,3,4,5,5,5,5,5,Terrier Dogs,20 to 25 inches,9 to 15 pounds,10 to 12 years
+3451,3,1,3,1,2,5,4,4,5,4,4,3,1,1,4,4,4,2,3,4,4,2,3,4,2,4,4,3,5,Mixed Breed Dogs,15 to 23 inches,50 to 90 pounds,Up to 15 years
+3452,3,5,3,1,2,2,4,4,1,3,3,2,1,1,2,2,3,2,3,3,4,2,2,2,2,3,3,3,5,Companion Dogs,9 inches to 10 inches tall at the shoulder,40 to 50 pounds,12 to 15 years
+3453,2,3,4,1,4,4,5,5,5,5,4,3,3,1,5,4,2,4,4,5,5,3,4,2,5,5,5,4,5,Hound Dogs,9 to 12 inches,Starts at 20 pounds,10 to 12 years
+3454,3,4,4,1,2,3,4,4,5,2,2,3,2,1,5,2,4,4,4,5,4,3,4,5,2,5,5,3,5,Mixed Breed Dogs,22 to 30 inches.,15 to 35 pounds ,10 to 14 years
+3455,3,3,3,2,3,4,3,5,5,2,3,3,3,5,3,3,3,3,4,3,4,3,5,4,4,5,4,5,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",10 to 25 pounds,Up to 15 years
+3456,3,5,4,1,3,4,4,5,4,4,4,2,2,1,5,2,4,3,3,5,4,3,3,2,2,5,5,3,5,Herding Dogs,16 to 25 inches ,40 to 180 pounds,12 to 15 years
+3457,3,2,4,2,2,2,4,5,5,3,4,4,4,4,5,2,4,4,3,4,5,3,4,3,4,5,5,5,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,8 to 12 years
+3458,3,4,5,2,4,3,4,5,5,5,4,3,5,5,3,4,5,3,3,1,5,2,4,2,5,4,4,3,4,Herding Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years
+3459,4,5,4,3,1,3,4,3,2,3,1,2,3,1,1,2,3,2,2,3,4,4,2,3,1,3,2,3,4,Companion Dogs,10 to 14 inches,18 to 30 pounds,10 to 15 years
+3460,3,5,3,3,4,3,4,4,3,3,3,3,3,1,2,3,3,2,3,3,3,3,4,3,2,3,3,2,3,Terrier Dogs,10 to 14 inches,7 to 12 pounds,12 to 14 years
+3461,3,4,5,1,2,2,4,5,4,4,4,3,1,2,4,3,4,4,3,3,3,2,3,4,2,4,4,3,4,Mixed Breed Dogs,11 to 24 inches,90 to 150 pounds. ,12 to 15 years
+3462,2,1,4,1,5,2,5,5,4,1,5,4,4,4,2,3,3,5,2,3,5,2,4,4,3,5,3,5,4,Working Dogs,20 to 27 inches ,6 to 15 pounds,9 to 14 years
+3463,3,2,5,2,5,3,5,4,5,4,5,3,2,1,1,3,3,3,4,3,4,4,5,3,4,4,4,5,4,Hound Dogs,9 inches to 1 foot tall at the shoulder,18 to 30 pounds,12 to 15 years 
+3464,4,5,5,1,2,5,3,5,3,3,2,2,2,1,2,4,3,1,4,3,3,3,4,2,3,3,3,2,4,Companion Dogs,10 to 25 inches,35 - 60 pounds,12 to 14 years
+3465,3,2,4,2,4,3,5,5,5,3,5,2,4,1,1,2,3,5,5,2,4,5,5,1,3,4,5,3,4,Hybrid Dogs,17 to 20 inches tall at the shoulder,8 to 18 pounds ,10 to 15 years
+3466,3,5,4,1,2,4,4,4,4,2,4,2,2,1,5,4,3,1,3,2,4,4,4,2,3,4,5,3,5,Mixed Breed Dogs,16 to 25 inches ,40 to 180 pounds,11 to 20 years
+3467,4,5,4,1,2,2,4,4,4,4,3,2,1,1,2,2,2,1,3,5,4,2,3,2,2,4,3,3,4,Companion Dogs,8 inches to 9 inches tall at the shoulder,120 to 170 pounds,12 to 15 years
+3468,3,2,3,3,4,2,4,5,4,4,3,3,1,1,3,4,3,3,3,4,4,3,5,2,4,4,4,3,4,Terrier Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",70 to 115 pounds,10 to 14 years
+3469,3,3,4,1,3,3,3,4,3,2,2,2,1,1,5,5,4,1,4,2,3,4,4,5,3,5,5,4,5,Herding Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3470,3,2,4,1,3,4,4,5,4,3,3,2,2,1,2,4,3,1,3,5,4,3,4,2,3,5,5,3,5,Companion Dogs,16 to 25 inches ,3 to 6 pounds,10 to 15 years
+3471,3,1,3,3,5,2,4,5,4,4,3,4,4,5,3,3,4,4,3,5,5,2,2,1,3,4,4,3,4,Working Dogs,20 to 27 inches ,75 to 120 pounds,8 to 12 years
+3472,3,2,4,1,2,3,5,5,4,5,4,3,2,1,5,3,2,4,4,5,5,1,5,4,4,5,5,5,5,Terrier Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",Starts at 20 pounds,12 to 16 years
+3473,2,1,5,3,4,4,4,5,5,5,5,3,5,5,3,4,3,4,4,5,5,2,1,4,3,4,5,5,5,Working Dogs,20 to 27 inches ,115 to 180 pounds,10 to 13 years
+3474,2,2,3,3,5,2,2,5,2,1,2,3,5,3,2,2,3,5,4,3,4,4,2,3,1,3,2,5,4,Working Dogs,12 to 15 inches. ,18 to 30 pounds,10 to 14 years. 
+3475,3,3,4,5,1,2,5,4,3,3,3,2,4,1,5,5,2,5,4,2,4,4,5,4,4,4,5,4,5,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",15 to 35 pounds ,10 to 14 years
+3476,3,2,4,3,3,3,4,5,5,3,3,4,2,1,5,3,3,4,4,4,4,1,3,2,5,5,5,4,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years. 
+3477,4,2,3,2,3,2,4,4,3,2,3,3,3,3,5,2,3,3,3,2,3,2,3,4,1,4,3,2,3,Mixed Breed Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",18 to 30 pounds,9 to 11 years 
+3478,4,3,4,1,5,3,4,5,3,5,2,3,3,2,4,3,4,4,3,3,4,2,5,3,2,4,4,3,4,Working Dogs,19 to 24 inches,30 to 60 pounds,10 to 13 years
+3479,3,3,5,2,4,4,4,5,3,2,3,2,3,1,2,3,3,1,4,1,4,3,4,5,3,5,5,5,5,Terrier Dogs,16 to 19 inches,25 to 27 pounds,10 to 12 years
+3480,3,5,4,2,4,4,4,5,4,2,4,3,4,1,5,4,3,4,4,5,4,2,3,4,3,4,5,4,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,11 to 13 Years
+3481,3,4,3,3,3,3,3,4,1,1,3,3,3,1,2,5,3,1,3,3,4,2,5,4,1,3,3,2,4,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",18 to 30 pounds,12 to 15 years
+3482,4,3,4,1,4,3,5,5,5,4,2,2,1,1,1,4,4,2,3,3,4,3,4,3,2,5,4,3,4,Terrier Dogs,12 to 16 inches,17 to 23 pounds,12 to 15 years
+3483,4,1,4,1,2,2,4,5,5,4,4,4,4,3,5,4,4,1,3,4,5,3,4,2,3,4,4,2,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",40 to 55 pounds,6 to 12 years
+3484,3,3,4,2,4,4,5,5,5,3,4,3,3,1,5,5,3,2,4,5,4,1,3,3,5,5,5,4,5,Herding Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",9 to 15 pounds,12 to 13 years
+3485,4,4,4,2,5,3,5,5,5,5,5,3,3,1,3,3,4,2,3,4,4,4,3,4,3,4,4,4,5,Hybrid Dogs,9 inches to 1 foot tall at the shoulder,10 to 20 pounds,12 to 14 years
+3486,3,5,5,1,3,2,4,5,4,3,3,2,2,1,5,4,3,2,3,4,4,4,4,2,2,3,4,3,4,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",70 to 80 pounds,12 to 15 years
+3487,3,3,4,2,2,4,3,4,3,2,2,3,3,1,5,5,3,1,4,2,3,3,4,5,5,5,5,4,5,Hound Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,14 to 20 years
+3488,3,2,2,2,2,2,3,4,3,2,3,2,2,1,5,2,3,1,4,3,3,3,4,5,2,3,4,4,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,12 to 15 years
+3489,3,3,3,3,5,3,4,5,4,3,2,3,4,2,3,5,3,2,3,4,4,2,2,4,3,4,3,3,4,Companion Dogs,12 to 16 inches,70 to 115 pounds,13 to 14 years
+3490,3,3,3,3,4,2,3,4,1,4,2,3,1,1,2,5,4,1,3,3,4,1,2,3,1,3,3,2,3,Hybrid Dogs,12 to 16 inches,7 to 12 pounds,13 to 17+ years 
+3491,4,4,3,2,1,3,5,5,4,3,3,3,3,1,4,4,3,3,3,2,4,3,4,3,4,4,4,2,5,Sporting Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",30 to 60 pounds,Up to 15 years
+3492,3,2,5,1,2,3,4,5,5,3,4,3,2,2,5,2,2,2,2,3,5,1,4,2,4,4,4,4,5,Mixed Breed Dogs,9 to 12 inches,40 to 180 pounds,10 to 12 years
+3493,4,4,4,2,4,2,4,4,4,3,3,3,1,1,2,3,3,3,3,3,3,2,5,2,3,4,4,3,4,Herding Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",25 to 35 pounds. ,8 to 11 years
+3494,3,3,5,4,5,3,5,5,5,2,5,4,3,1,5,4,3,3,3,1,3,2,5,1,3,3,5,2,5,Hybrid Dogs,22 inches to 26 inches tall at the shoulder,45 to 55 pounds,10 to 14 years
+3495,3,3,4,1,1,4,3,5,4,2,4,3,2,1,5,2,2,4,4,3,4,3,4,3,5,5,5,4,5,Terrier Dogs,16 to 25 inches ,9 to 15 pounds,12 to 14 years
+3496,3,5,4,3,2,2,4,5,4,4,3,3,4,2,2,2,4,2,2,3,4,3,5,4,5,3,3,3,4,Mixed Breed Dogs,"11 inches to 1 foot, 1 inch tall at the shoulder",10 to 40 pounds,6 to 8 years
+3497,3,2,5,4,2,3,3,4,3,2,5,3,3,1,5,5,3,2,4,2,4,4,5,4,5,5,5,4,5,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",48 to 55 pounds,12 to 14 Years
+3498,3,3,3,3,4,3,4,5,2,3,3,3,3,2,5,4,3,3,3,3,3,3,5,1,3,2,3,3,4,Hybrid Dogs,10 to 14 inches,18 to 30 pounds,10 to 15 years
+3499,3,3,3,2,4,3,3,4,5,3,2,3,3,2,1,3,2,3,3,3,4,3,5,4,4,4,4,2,4,Mixed Breed Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,12 to 16 years
+3500,3,2,2,2,4,2,4,5,5,4,3,4,4,4,3,3,4,3,3,3,4,4,5,4,4,4,4,4,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 14 years. 
+3501,4,5,3,3,3,3,5,4,5,3,3,3,2,1,1,5,2,3,4,3,4,3,3,3,5,4,4,3,4,Sporting Dogs,9 inches to 1 foot tall at the shoulder,30 to 60 pounds,13 to 15 years
+3502,3,1,3,2,5,2,4,4,1,1,1,3,3,3,4,3,3,5,3,4,2,4,2,2,1,2,3,2,2,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,10 to 14 years
+3503,3,2,5,2,4,2,5,5,5,5,5,4,5,3,3,3,2,3,4,5,5,4,3,3,5,4,5,4,5,Sporting Dogs,19 to 24 inches,25 to 35 pounds. ,10 to 14 years
+3504,3,2,4,3,3,4,5,5,5,4,4,3,1,1,1,4,3,2,4,3,4,3,3,4,5,4,4,3,4,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,18 to 30 pounds,10 to 15 years
+3505,3,2,2,3,4,1,4,5,5,5,5,4,5,4,2,4,3,5,3,5,4,5,2,2,3,4,5,5,5,Working Dogs,20 to 26 inches,33 to 55 pounds,8 to 12 years. 
+3506,3,3,4,1,4,2,3,5,4,3,2,3,4,1,5,5,3,2,4,3,4,4,4,3,5,5,5,5,5,Mixed Breed Dogs,16 to 25 inches ,3 to 6 pounds,10 to 14 years. 
+3507,3,4,3,2,1,3,3,4,3,3,2,3,1,1,2,4,3,1,3,3,4,4,5,4,4,4,4,4,3,Mixed Breed Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",44 to 55 pounds. ,13 to 14 years
+3508,2,1,3,3,5,3,5,4,2,1,5,3,5,3,4,1,3,5,4,3,3,3,5,4,4,4,4,2,3,Working Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",18 to 30 pounds,12 to 14 years
+3509,3,3,4,3,3,3,4,5,4,4,3,3,1,1,4,2,3,2,3,5,5,2,3,3,2,4,5,3,5,Herding Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",40 to 180 pounds,12 to 15 years
+3510,3,2,4,1,4,3,4,5,4,4,5,3,1,2,3,4,2,3,4,4,4,2,2,2,5,4,4,3,4,Hound Dogs,8 inches to 10 inches tall at the shoulder,35 to 80 pounds,10 to 12 years
+3511,3,2,4,2,3,1,4,5,4,2,3,4,4,3,4,4,4,4,3,4,4,2,3,2,3,4,4,2,4,Mixed Breed Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",10 to 20 pounds,8 to 11 years
+3512,3,2,3,2,4,4,4,5,4,4,3,3,4,1,5,4,4,4,3,3,4,3,3,2,2,4,5,5,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,10 to 13 years
+3513,3,2,4,2,5,2,4,4,1,1,3,3,3,1,5,4,3,3,3,2,4,3,3,5,3,3,2,2,3,Working Dogs,22 inches to 26 inches tall at the shoulder,14 to 16 pounds,8 to 10 years
+3514,4,3,5,1,4,2,5,5,5,2,3,3,1,1,5,3,4,4,3,2,4,4,5,2,4,4,4,3,5,Mixed Breed Dogs,18 to 25 inches,6 to 15 pounds,12 to 14 years
+3515,3,4,4,5,3,5,3,5,3,3,3,3,2,1,4,4,3,2,3,4,3,3,3,3,4,4,3,4,4,Mixed Breed Dogs,11 to 24 inches,40 to 180 pounds,10 to 15 years
+3516,3,2,4,1,3,3,4,5,5,3,3,3,2,1,1,2,4,3,3,4,5,2,4,2,3,4,5,4,5,Hound Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",85 to 160 pounds,10 to 12 years
+3517,2,1,3,3,5,1,2,3,1,1,2,3,5,4,1,3,3,5,3,3,4,4,2,4,1,3,3,2,3,Working Dogs,12 to 16 inches ,30 to 60 pounds,12 to 16 years
+3518,3,2,3,2,4,3,4,5,4,3,4,4,4,2,2,4,2,4,4,4,5,4,3,3,3,5,5,5,5,Mixed Breed Dogs,8 to 10 inches,3 to 6 pounds,13 to 15 years
+3519,4,5,3,2,3,3,5,5,5,1,5,3,3,1,4,4,3,3,4,4,4,4,1,4,5,3,3,3,4,Working Dogs,12 to 15 inches ,70 to 115 pounds,12 to 15 years
+3520,3,2,3,3,4,5,4,3,3,2,2,3,5,1,1,3,3,1,4,2,4,3,5,3,1,3,4,5,3,Working Dogs,10 to 14 inches,37 to 62 pounds,10 to 12 years
+3521,3,1,4,3,3,2,4,4,3,3,2,3,1,1,5,2,3,1,4,2,4,3,4,5,4,5,5,4,5,Companion Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3522,3,3,3,1,4,4,4,5,4,3,3,2,3,1,1,4,3,2,4,3,4,3,2,4,3,5,5,3,4,Sporting Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",45 to 70 pounds,6 to 10 years
+3523,3,2,4,1,2,3,4,5,4,3,3,3,4,2,3,3,2,3,3,4,4,5,2,3,1,4,4,2,4,Sporting Dogs,16 to 25 inches,30 to 60 pounds,10 to 16 years
+3524,3,1,4,1,5,3,5,5,5,5,5,3,3,5,2,3,5,4,4,3,4,4,5,3,4,4,4,4,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",50 to 75 pounds,10 to 12 years 
+3525,3,3,4,1,4,3,4,5,4,4,5,2,5,1,1,3,2,2,4,3,4,3,2,2,1,4,3,1,4,Companion Dogs,10 to 15 inches,70 to 115 pounds,10 to 15 years
+3526,4,3,3,2,4,2,3,5,4,3,4,3,1,1,2,4,3,3,3,2,5,3,4,4,2,4,5,3,4,Herding Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",100 to 130 pounds,12 to 15 years
+3527,3,4,5,3,3,2,3,4,3,3,2,2,3,1,4,2,3,1,3,4,3,3,3,3,2,3,2,3,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,11 to 14 years old
+3528,3,4,4,2,4,3,4,5,5,4,2,2,3,5,2,4,5,2,4,3,4,2,5,2,4,4,4,3,4,Hound Dogs,7 to 11 inches,70 to 115 pounds,12 to 15 years. 
+3529,3,2,4,1,2,4,3,4,3,3,2,3,2,1,5,4,2,3,3,2,4,4,3,4,5,4,4,4,4,Mixed Breed Dogs,22 to 30 inches.,13 to 18 pounds,12 to 14 years
+3530,3,2,4,2,3,4,4,5,5,4,3,2,5,1,2,5,3,4,3,2,4,4,3,5,3,5,4,5,5,Herding Dogs,15 to 30 inches,9 to 15 pounds,10 to 15 years
+3531,3,4,4,2,3,2,4,5,4,3,3,2,2,2,4,2,3,2,3,4,4,3,3,2,3,4,2,3,4,Mixed Breed Dogs,12 to 13 inches at the shoulder,13 to 18 pounds,10 to 15 years
+3532,3,1,4,3,4,3,3,5,4,2,2,3,3,4,5,3,3,4,4,4,4,2,4,3,2,5,5,4,5,Working Dogs,19 to 23 inches,14 to 16 pounds,8 to 11 years
+3533,3,2,4,2,2,4,4,4,4,2,2,2,2,1,3,4,4,5,4,5,4,1,4,3,2,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,9 to 15 pounds,10 to 12 years
+3534,3,3,4,2,4,3,5,5,5,3,3,3,3,4,5,4,3,4,4,5,5,4,5,4,5,5,5,5,4,Sporting Dogs,9 inches to 1 foot tall at the shoulder,25 to 60 pounds,10 to 12 years
+3535,4,4,3,2,2,3,3,4,3,1,2,3,2,1,5,5,2,1,3,3,4,2,5,4,2,3,3,3,4,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,14 to 15 years
+3536,4,4,3,3,3,2,3,2,3,3,3,2,3,1,2,5,5,1,3,3,4,3,2,3,1,3,3,3,4,Companion Dogs,10 to 14 inches,7 to 12 pounds,13 to 15 years
+3537,3,5,3,3,5,2,4,5,4,3,3,3,3,3,4,3,4,3,4,4,5,2,2,2,2,4,4,3,4,Working Dogs,19 to 24 inches,30 to 60 pounds,14 to 16 years
+3538,3,5,4,1,4,2,4,5,4,3,4,2,3,1,5,4,3,4,3,5,5,4,4,3,3,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,12 to 14 years 
+3539,3,1,4,2,3,3,4,5,4,3,3,4,4,1,4,3,2,3,3,4,4,3,3,1,2,2,4,4,5,Herding Dogs,9 to 12 inches,Starts at 20 pounds,12 to 16 years
+3540,3,3,3,3,3,3,5,5,3,1,1,3,3,2,3,4,3,3,4,1,4,4,3,3,5,4,4,2,4,Hybrid Dogs,12 to 15 inches ,70 to 115 pounds,10 to 12 years
+3541,3,2,3,2,3,3,3,2,4,3,3,3,5,3,5,3,4,3,3,3,3,4,3,3,1,3,3,3,4,Mixed Breed Dogs,12 to 16 inches,110 to 200 pounds,14 to 15 years
+3542,4,3,5,1,2,4,3,4,3,3,2,3,1,1,5,2,3,1,4,2,4,3,4,5,5,5,4,4,3,Herding Dogs,16 to 25 inches ,9 to 15 pounds,10 to 12 years
+3543,4,4,5,3,4,3,3,5,4,3,3,4,3,1,5,4,3,3,4,4,4,2,3,4,4,4,5,4,4,Herding Dogs,11 to 24 inches,40 to 180 pounds,10 to 15 years
+3544,3,4,4,1,2,4,4,5,4,4,4,3,2,1,4,3,3,3,3,1,3,1,4,4,5,4,4,4,5,Mixed Breed Dogs,22 to 30 inches.,30 to 80 pounds ,13 to 14 years
+3545,4,4,4,3,2,3,3,4,3,3,2,2,3,1,4,4,2,2,3,3,4,4,4,2,2,4,4,3,5,Herding Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 15 years
+3546,2,1,3,2,5,2,4,5,5,1,1,4,3,3,3,3,2,3,2,3,3,5,2,2,2,2,3,3,2,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,10 to 12 years
+3547,3,2,5,3,2,3,3,4,5,3,2,3,2,1,5,5,2,2,3,2,3,3,3,3,2,4,4,2,3,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",48 to 55 pounds,12 to 15 years
+3548,3,2,2,1,1,3,3,4,3,2,2,3,3,1,2,3,2,3,4,2,4,2,5,2,5,4,2,4,4,Working Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",55 to 70 pounds,7 to 10 years
+3549,4,4,4,2,3,4,4,5,5,4,2,3,3,2,3,4,3,2,4,5,4,4,5,3,2,4,5,5,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",13 to 18 pounds,10 to 14 years
+3550,4,4,4,1,4,3,4,5,4,4,2,4,3,1,2,4,4,2,4,4,5,3,3,2,3,4,5,2,4,Hybrid Dogs,9 to 12 inches,9 to 13 pounds,12 to 15 years
+3551,3,1,4,2,2,3,5,5,5,5,5,3,5,1,2,3,4,3,4,4,3,1,5,1,3,4,2,3,5,Working Dogs,12 to 17 inches ,30 to 60 pounds,10 to 12 years
+3552,3,4,4,1,3,4,4,5,4,3,4,3,4,2,5,3,4,4,3,4,5,3,3,2,3,4,5,4,5,Mixed Breed Dogs,18 to 23.5 inches,40 to 180 pounds,10 to 12 years
+3553,3,2,5,2,2,3,3,5,5,3,3,4,4,1,4,4,4,4,3,2,4,2,3,4,3,4,5,4,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 15 pounds,9 to 14 years
+3554,3,4,3,2,4,3,3,4,4,3,2,2,3,2,4,4,3,2,4,3,4,4,5,4,4,4,3,3,4,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,7 to 12 pounds,12 to 16 years
+3555,3,2,4,1,4,4,5,5,5,5,5,3,5,4,5,3,5,4,4,2,5,5,4,4,5,5,5,5,5,Herding Dogs,"1 foot, 11 inches to 2 feet, 2 inches tall at the shoulder",33 to 53 pounds,10 to 14 years
+3556,4,2,3,1,3,4,4,5,5,5,4,4,4,1,1,4,3,3,3,5,3,3,1,5,5,5,5,3,5,Terrier Dogs,16 to 25 inches ,13 to 18 pounds,11 to 14 years
+3557,4,4,4,1,4,2,4,4,5,3,3,3,3,1,3,4,4,1,3,4,3,4,2,2,2,3,3,2,3,Mixed Breed Dogs,10 to 14 inches,40 to 70 pounds,10 to 15 years
+3558,3,4,4,1,3,3,4,5,5,4,4,4,4,2,3,3,4,4,3,5,5,3,3,2,2,4,4,2,5,Mixed Breed Dogs,8 to 18 inches ,9 to 13 pounds,12 to 15 years
+3559,3,5,5,3,2,2,4,5,5,5,1,3,4,1,3,2,4,3,3,4,4,2,2,2,1,2,3,2,4,Companion Dogs,16 to 25 inches,30 to 60 pounds,9 to 12 years
+3560,4,1,4,1,2,4,5,5,5,5,4,3,4,1,5,3,5,2,4,5,4,4,4,1,5,5,5,4,5,Sporting Dogs,9 to 10 inches tall at the shoulder,40 to 180 pounds,9 to 11 years 
+3561,4,4,4,5,2,2,5,5,5,5,5,3,2,1,4,4,4,2,3,5,4,4,5,5,5,4,4,4,4,Hybrid Dogs,24 to 26 inches,8 to 15 pounds ,12 to 15 years
+3562,3,5,4,1,4,4,4,5,5,3,4,2,2,1,2,2,3,2,3,5,5,3,3,4,4,5,5,5,5,Companion Dogs,16 to 25 inches ,Starts at 20 pounds,12 to 15 years
+3563,3,4,3,1,4,2,4,5,5,4,4,4,4,2,3,2,4,5,3,4,4,3,1,2,2,4,4,3,5,Hybrid Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",4 to 16 pounds ,12 to 14 years
+3564,2,3,4,2,1,3,5,5,5,5,5,3,3,1,5,4,5,2,4,1,4,4,5,4,4,4,5,4,4,Terrier Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",50 to 65 pounds,10 to 14 years
+3565,3,4,3,2,1,2,3,4,3,3,2,2,1,1,1,5,3,2,4,3,4,2,3,2,2,3,3,2,4,Companion Dogs,7 to 12 inches,45 to 100 pounds,12 to 16 years
+3566,4,4,3,3,4,3,4,5,4,3,3,4,1,2,2,4,4,5,3,4,5,2,2,2,3,4,4,2,4,Working Dogs,27 to 32 inches tall at the shoulder,44 to 50 pounds,12 to 15 years
+3567,3,3,4,3,2,3,3,4,3,2,2,3,1,1,5,3,3,1,4,2,4,4,4,3,5,3,4,3,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,11 to 13 Years
+3568,3,4,4,3,4,2,4,5,4,4,2,4,4,4,5,1,3,3,4,4,4,4,2,3,3,4,4,2,4,Working Dogs,12 to 15 inches. ,70 to 115 pounds,10 to 12 years
+3569,3,2,4,2,4,3,5,5,4,4,4,4,4,4,5,3,4,4,4,4,5,2,3,3,3,5,5,4,5,Mixed Breed Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",40 to 180 pounds,8 to 12 years
+3570,3,5,4,1,3,4,4,5,4,3,4,4,4,1,5,3,2,4,3,4,3,2,3,3,2,5,5,4,5,Mixed Breed Dogs,18 to 23.5 inches,40 to 180 pounds,12 to 15 years
+3571,3,4,4,2,4,3,4,5,4,4,4,3,2,2,5,3,4,3,3,5,4,3,4,3,2,4,4,3,4,Mixed Breed Dogs,12 to 13 inches at the shoulder,90 to 150 pounds. ,12 to 15 years
+3572,3,2,4,3,2,3,4,5,4,4,4,3,2,2,3,3,3,3,3,2,4,2,5,3,2,3,3,4,4,Mixed Breed Dogs,"1 foot, 2 inches to 1 foot, 6 inches tall at the shoulder",90 to 150 pounds. ,12 to 13 years
+3573,3,4,3,3,3,3,3,4,3,3,3,2,1,1,2,5,4,2,3,2,4,2,2,4,3,3,3,2,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,9 to 11 years 
+3574,3,2,4,2,2,2,4,5,4,4,4,3,1,2,3,3,2,4,4,5,4,4,2,4,3,4,4,3,4,Sporting Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",40 to 50 pounds,10 to 14 years 
+3575,3,3,4,3,3,4,4,5,4,3,3,2,2,1,5,3,2,4,3,4,4,3,5,2,3,5,4,3,5,Herding Dogs,20 to 25 inches,Starts at 20 pounds,12 to 14 years
+3576,3,3,4,2,3,4,3,4,3,3,2,2,1,1,5,5,3,1,3,3,4,4,4,4,2,3,2,2,4,Companion Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,8 to 12 years
+3577,4,3,4,3,3,2,4,4,3,3,2,2,3,1,3,4,4,1,4,2,4,4,5,2,2,3,3,2,3,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 110 pounds,14 to 16 years
+3578,2,2,3,3,5,1,5,5,5,5,5,3,5,2,1,1,3,4,3,3,4,5,5,2,4,5,3,5,5,Working Dogs,19 to 24 inches,70 to 115 pounds,12 to 14 years
+3579,3,4,3,2,4,2,3,4,3,3,2,3,3,1,1,3,2,3,3,3,3,2,5,4,1,4,4,2,4,Mixed Breed Dogs,12 to 16 inches,30 to 60 pounds,8 to 12 years. 
+3580,3,5,4,2,4,1,4,5,4,3,4,3,1,3,4,2,3,5,2,4,4,2,1,2,1,3,3,3,5,Companion Dogs,8 inches to 10 inches tall at the shoulder,15 to 17 pounds,8 to 10 years
+3581,3,3,3,2,1,2,4,5,4,3,3,2,3,1,3,3,4,4,3,4,4,2,2,2,1,4,2,2,4,Working Dogs,10 to 14 inches,18 to 30 pounds,10 to 14 years
+3582,4,5,2,2,3,4,5,5,5,3,3,2,2,1,2,3,3,3,4,5,5,3,3,4,4,5,5,4,5,Hybrid Dogs,24 to 26 inches,15 to 35 pounds ,12 to 16 years 
+3583,2,2,2,2,4,2,5,5,4,4,2,4,5,4,3,3,3,4,4,4,5,2,2,4,3,4,3,2,4,Working Dogs,16 to 25 inches,70 to 115 pounds,8 to 12 years. 
+3584,3,4,4,1,3,2,4,5,5,4,4,2,2,1,3,4,3,4,3,5,4,3,3,3,2,4,3,3,5,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,10 to 14 years. 
+3585,4,3,3,2,4,3,5,5,5,5,5,3,5,1,3,3,5,3,4,3,4,4,5,4,5,4,4,5,5,Hound Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",18 to 30 pounds,10 to 12 years
+3586,3,3,3,3,4,2,4,5,1,3,2,3,4,3,4,3,3,3,3,4,5,4,3,3,4,4,3,2,3,Mixed Breed Dogs,22 inches to 26 inches tall at the shoulder,30 to 60 pounds,10 to 15 years
+3587,2,2,4,1,4,3,4,5,5,5,4,4,4,2,3,3,4,4,3,1,5,5,3,3,3,4,5,3,5,Hound Dogs,26 to 34 inches tall at the shoulder,30 to 60 pounds,10 to 13 years
+3588,4,5,5,1,3,2,4,5,5,3,5,3,4,1,2,4,2,2,3,4,4,4,1,4,3,2,4,3,5,Companion Dogs,"Up to 1 foot, 3 inches tall at the shoulder",55 to 90 pounds,12 to 15 years
+3589,3,3,3,2,4,3,3,4,3,3,2,3,4,1,5,5,2,3,4,3,3,4,5,4,4,4,3,2,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",110 to 200 pounds,10 to 12 years
+3590,3,5,4,1,2,3,3,5,3,3,2,2,3,1,2,5,2,1,3,3,4,4,3,5,5,4,4,2,3,Hound Dogs,21 to 25 inches at the shoulder,40 to 180 pounds,12 to 15 years
+3591,4,3,3,3,5,2,5,4,4,5,5,3,3,5,4,3,3,2,2,3,3,2,2,2,4,4,3,2,4,Working Dogs,12 to 15 inches ,70 to 115 pounds,13 to 15 years
+3592,3,5,4,1,4,2,4,5,4,3,3,2,4,4,4,2,3,1,3,5,4,3,1,2,2,4,5,3,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,8 to 15 years
+3593,3,5,5,1,3,2,4,5,4,3,3,4,4,2,3,2,3,3,3,4,4,2,3,2,1,2,3,3,3,Companion Dogs,19 to 24 inches,30 to 60 pounds,6 to 12 years
+3594,3,4,3,3,3,3,3,3,3,3,3,2,1,2,3,3,3,2,3,3,4,2,5,4,4,3,4,5,4,Mixed Breed Dogs,12 to 16 inches,18 to 30 pounds,8 to 10 years
+3595,3,5,4,3,2,4,4,4,4,3,4,2,2,1,2,3,3,5,3,5,4,2,2,3,2,4,3,3,5,Herding Dogs,20 to 25 inches,9 to 15 pounds,12 to 14 Years
+3596,4,3,3,2,4,2,4,4,3,3,2,3,3,1,4,4,3,3,3,3,5,2,5,2,4,4,4,3,4,Mixed Breed Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,13 to 15 years
+3597,3,1,4,2,4,4,4,5,4,3,4,2,3,1,2,4,1,4,4,5,5,2,4,2,3,5,5,2,5,Herding Dogs,19 to 22 inches,9 to 13 pounds,12 to 15 years
+3598,3,3,3,2,4,2,4,5,4,3,2,3,4,2,5,2,3,3,3,3,3,2,2,3,3,4,3,3,5,Mixed Breed Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",35 to 65 pounds ,9 to 15 years
+3599,3,2,4,1,4,3,5,5,5,5,4,3,1,1,5,3,5,3,4,4,4,4,3,5,5,4,5,4,5,Mixed Breed Dogs,12 to 13 inches ,50 to 90 pounds,10 to 12 years
+3600,3,2,3,3,3,4,4,5,5,3,4,3,3,1,5,4,3,4,3,4,3,3,4,3,1,4,3,4,5,Hound Dogs,5 to 10 inches,5 to 20 pounds ,8 to 12 years
+3601,3,5,4,1,3,2,4,5,4,4,3,2,1,2,4,1,3,4,3,4,4,3,3,2,2,4,3,3,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,8 to 10 years
+3602,3,3,4,1,3,4,5,4,5,5,3,3,2,2,5,3,3,4,4,1,5,1,4,3,5,5,5,5,5,Working Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",40 to 180 pounds,10 to 12 years
+3603,3,2,3,3,4,2,5,5,5,2,3,4,4,4,5,2,3,5,3,2,3,5,4,1,4,5,5,3,5,Working Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",9 to 15 pounds,12 - 15 years
+3604,2,2,5,2,4,3,5,5,5,1,1,3,4,5,2,4,5,3,4,3,3,3,5,4,5,5,5,1,5,Hound Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",18 to 30 pounds,10 to 13 years
+3605,3,4,4,3,3,4,4,5,4,3,4,2,4,1,2,3,3,1,3,5,4,3,1,2,2,4,3,3,3,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 13 pounds,12 to 15 years
+3606,3,5,5,1,4,2,4,4,4,4,3,4,5,1,5,2,3,4,4,4,4,2,3,4,3,4,5,4,5,Sporting Dogs,20 to 25 inches,Starts at 20 pounds,12 to 15 years 
+3607,3,2,3,2,5,3,4,5,5,4,4,4,3,2,3,4,2,3,4,3,4,3,5,3,3,4,5,2,5,Herding Dogs,17 to 25 inches,25 to 40 pounds,12 to 14 years
+3608,3,2,4,1,2,4,4,5,5,4,3,3,4,1,5,5,3,1,3,4,5,3,3,5,3,5,5,5,5,Sporting Dogs,20 to 25 inches,Starts at 20 pounds,14 to 17 years
+3609,3,3,4,1,4,4,3,4,3,3,2,3,1,1,5,4,3,4,3,4,3,3,4,3,4,5,5,4,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3610,3,2,4,1,4,3,4,5,5,4,4,4,4,1,5,4,3,4,4,5,5,3,3,3,3,5,5,5,5,Sporting Dogs,20 to 25 inches,Starts at 20 pounds,12 to 16 years
+3611,2,1,4,1,4,1,5,5,4,4,5,4,5,5,3,2,4,5,3,1,3,5,3,1,3,5,5,3,5,Working Dogs,21 to 29 inches,4 to 16 pounds ,10 to 12 years
+3612,2,2,3,1,3,3,4,5,5,2,4,4,4,4,3,4,3,4,2,4,2,3,4,1,3,2,5,3,5,Working Dogs,17 to 20 inches tall at the shoulder,45 to 80 pounds,8 to 10 years
+3613,3,3,4,1,2,4,4,5,5,2,3,3,2,1,5,3,3,3,4,2,3,3,3,3,4,5,5,4,5,Mixed Breed Dogs,16 to 25 inches ,9 to 15 pounds,12 to 16 years
+3614,2,1,5,4,4,4,5,5,5,5,5,4,5,1,5,4,3,5,4,5,5,3,5,4,5,5,5,5,5,Working Dogs,8 to 15 inches,Starts at 20 pounds,10 to 14 years
+3615,4,3,4,2,3,4,4,5,4,4,4,3,2,1,2,5,3,3,4,4,5,2,2,2,3,5,5,3,5,Sporting Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 15 pounds,12 to 15 years
+3616,4,3,4,2,4,4,5,5,5,5,4,3,3,2,4,4,4,2,4,4,4,2,3,4,4,4,4,3,4,Mixed Breed Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",25 to 35 pounds. ,10 to 14 years
+3617,4,5,3,3,5,2,4,5,4,4,4,2,1,1,1,4,2,2,3,3,4,2,2,2,2,4,2,3,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",25 to 30 pounds,12 to 15 years
+3618,3,2,3,2,4,2,5,5,5,5,5,3,3,1,2,3,3,4,4,3,4,4,4,4,3,5,5,4,4,Terrier Dogs,14 to 20 inches,25 to 46 pounds,13 to 17+ years 
+3619,3,2,4,2,4,3,4,5,5,4,3,3,4,2,3,3,3,3,4,4,4,3,4,3,4,4,5,4,5,Working Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",60 to 95 pounds ,10 to 14 years
+3620,3,2,4,1,4,3,5,5,5,5,5,3,5,3,5,4,5,3,4,3,4,5,1,4,4,4,5,5,5,Sporting Dogs,12 to 16 inches ,30 to 60 pounds,10 to 12 years.
+3621,3,2,4,2,1,3,3,4,3,2,2,3,2,1,5,4,3,2,3,2,3,4,3,5,4,5,4,3,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,120 to 180 pounds,Starts at 14 years
+3622,4,4,4,2,2,4,4,5,5,4,4,2,2,1,4,3,4,4,3,3,4,3,3,4,4,4,4,3,4,Mixed Breed Dogs,10 to 17 inches,50 to 90 pounds,11 to 20 years
+3623,3,2,4,3,2,4,3,4,3,2,2,2,3,1,5,4,3,2,4,2,3,5,5,4,5,5,5,5,4,Sporting Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",3 to 6 pounds,12 to 14 years
+3624,2,1,3,3,4,2,4,5,4,3,3,3,4,4,4,4,4,3,3,3,5,2,4,3,3,4,4,3,4,Mixed Breed Dogs,8 inches to 10 inches tall at the shoulder,13 to 16 pounds,11 to 16 years 
+3625,3,2,4,1,5,3,4,5,4,4,4,4,4,1,4,3,3,1,3,2,3,3,4,3,3,4,5,3,5,Herding Dogs,20 to 25 inches,4 to 16 pounds ,12 to 15 years. 
+3626,2,2,4,2,4,2,4,5,4,4,4,3,5,2,3,3,2,3,3,4,4,2,3,3,1,4,4,2,4,Working Dogs,16 to 25 inches,70 to 115 pounds,9 to 15 years
+3627,2,1,4,1,3,4,4,4,3,2,3,4,2,1,5,5,3,3,4,2,4,4,4,5,5,3,4,4,2,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years
+3628,3,3,4,2,4,2,4,5,4,3,4,3,4,2,5,2,4,4,3,2,4,3,3,2,3,5,5,4,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 14 years
+3629,2,2,4,2,3,3,4,5,4,4,2,3,5,5,3,3,3,4,3,3,3,2,5,4,3,4,4,2,4,Working Dogs,16 to 25 inches,70 to 115 pounds,12 to 15 years
+3630,3,4,4,2,1,3,3,4,3,2,3,3,3,1,5,2,2,2,3,4,3,2,5,1,2,3,3,2,3,Mixed Breed Dogs,12 to 16 inches,18 to 30 pounds,12 to 14 years 
+3631,3,5,5,3,1,2,4,5,5,2,2,3,3,1,5,4,3,1,4,1,4,3,5,4,3,5,5,5,3,Hound Dogs,21 to 25 inches at the shoulder,9 to 20 pounds ,9 to 12 years
+3632,2,1,4,1,5,1,4,5,5,5,2,4,5,4,5,4,4,3,5,5,4,3,3,1,4,5,4,5,5,Working Dogs,26 to 34 inches tall at the shoulder,40 to 180 pounds,10 to 15 years
+3633,3,2,3,2,4,2,4,5,4,4,5,4,5,1,3,3,3,3,3,5,5,3,3,3,3,4,4,3,4,Working Dogs,8 inches to 10 inches tall at the shoulder,15 to 17 pounds,10 to 14 years
+3634,4,5,3,2,2,3,5,5,5,5,5,3,3,1,4,3,3,2,3,4,4,2,5,4,3,3,4,3,4,Hybrid Dogs,12 to 15 inches. ,30 to 60 pounds,10 to 15 years
+3635,3,3,3,2,1,3,3,4,3,2,2,2,2,1,2,5,3,1,4,2,3,1,5,4,5,3,4,4,4,Terrier Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,10 to 15 years
+3636,3,3,3,2,4,2,4,5,4,4,3,4,3,2,3,4,4,3,3,4,5,2,3,2,2,4,4,2,4,Herding Dogs,12 to 15 inches ,70 to 115 pounds,12 to 15 years
+3637,2,2,2,3,5,3,4,5,5,4,1,4,3,3,3,2,3,5,2,4,5,5,2,3,3,4,4,2,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3638,2,2,4,1,5,3,5,5,5,4,4,3,4,5,1,4,3,4,4,5,5,5,5,5,5,5,5,5,5,Hound Dogs,16 to 25 inches,30 to 60 pounds,12 to 15 years
+3639,4,4,3,2,4,3,5,5,5,5,5,3,4,2,3,3,4,2,3,5,5,2,3,1,4,4,4,4,4,Terrier Dogs,19 to 24 inches,25 to 35 pounds. ,10 to 14 years
+3640,2,4,3,2,4,3,3,4,5,2,2,3,1,1,1,2,3,2,4,3,3,2,5,3,3,4,4,3,4,Sporting Dogs,"Up to 1 foot, 2 inches tall at the shoulder",30 to 50 pounds,6 to 12 years
+3641,3,2,3,1,4,3,4,4,3,3,3,3,3,3,5,3,3,3,3,3,3,3,3,2,4,5,3,5,4,Sporting Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",13 to 18 pounds,10 to 14 years
+3642,3,2,4,2,2,2,4,5,5,4,1,4,4,1,4,4,3,2,3,5,4,3,2,3,2,3,4,3,5,Mixed Breed Dogs,9 to 10 inches tall at the shoulder,Starts at 20 pounds,10 to 12 years
+3643,3,3,2,3,1,3,3,4,3,3,2,3,2,1,5,3,3,2,4,3,3,4,5,4,5,3,2,2,3,Herding Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 110 pounds,11 to 13 years
+3644,3,4,4,5,4,3,5,5,5,3,3,2,2,1,5,4,3,4,3,5,5,2,3,2,3,5,4,3,5,Herding Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",Starts at 20 pounds,9 to 14 years
+3645,3,1,5,2,3,4,3,4,4,2,3,3,2,1,5,5,3,3,3,2,4,3,2,3,4,4,4,3,4,Hound Dogs,21 to 25 inches at the shoulder,50 to 85 pounds,11 to 14 years old
+3646,3,4,3,5,3,3,5,5,5,5,4,3,2,2,1,4,2,1,4,3,3,1,5,5,5,5,4,4,4,Sporting Dogs,22 inches to 26 inches tall at the shoulder,45 to 55 pounds,10 to 15 years
+3647,3,4,3,5,2,3,4,3,3,3,4,2,1,1,2,2,5,1,3,5,4,4,3,4,2,3,3,2,3,Companion Dogs,11 to 24 inches,70 to 80 pounds,10 to 15 years
+3648,2,1,3,1,3,1,5,5,4,3,1,3,5,3,3,3,5,5,2,3,4,5,5,2,3,2,2,2,4,Working Dogs,16 to 25 inches,22 to 55 pounds,8 to 10 years
+3649,4,4,3,2,3,3,4,5,4,4,4,4,3,1,2,2,3,3,4,4,5,4,3,3,5,5,5,3,4,Sporting Dogs,10 to 13 inches,25 to 46 pounds,10 to 14 years
+3650,3,1,4,1,4,2,4,5,5,4,4,3,3,3,3,4,4,4,3,5,5,4,3,2,3,5,5,3,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",40 to 180 pounds,11 to 15 years
+3651,3,2,4,1,2,2,4,5,4,2,4,3,4,1,5,4,4,3,3,2,4,4,4,3,2,5,3,4,5,Mixed Breed Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3652,4,3,5,2,3,3,5,4,5,5,4,3,3,1,5,4,4,3,4,4,4,1,4,1,4,4,4,4,5,Terrier Dogs,22 to 28 inches,80 to 110 pounds,13 to 14 years
+3653,4,4,3,2,4,3,5,5,5,5,5,3,2,1,4,4,1,3,4,5,4,2,5,4,4,4,4,5,4,Terrier Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",17 to 23 pounds,12 to 14 years
+3654,4,3,4,3,4,4,5,4,5,5,5,3,3,1,1,5,2,2,4,2,4,4,5,4,5,4,4,3,4,Hound Dogs,22 inches to 26 inches tall at the shoulder,50 to 65 pounds,12 to 15 years
+3655,3,2,4,2,2,3,4,5,5,4,3,3,5,2,4,3,3,4,3,3,5,2,4,2,3,4,4,3,4,Mixed Breed Dogs,27 to 32 inches tall at the shoulder,13 to 16 pounds,13 to 15 years
+3656,4,5,4,3,2,4,4,5,4,4,3,2,3,1,1,5,2,1,3,3,4,2,2,2,2,4,4,3,4,Companion Dogs,19 to 25 inches,Starts at 20 pounds,12 to 14 years
+3657,3,5,5,1,3,3,4,3,5,3,3,3,5,2,4,3,1,2,4,5,4,4,3,2,4,4,4,3,4,Mixed Breed Dogs,12 to 15 inches. ,30 to 60 pounds,10 to 15 years
+3658,3,5,4,1,3,3,4,5,4,3,3,2,4,2,3,2,2,3,3,4,4,3,3,2,2,4,5,3,5,Mixed Breed Dogs,10 to 25 inches,35 to 65 pounds ,13 to 16 years
+3659,3,3,4,1,3,2,4,5,5,4,4,3,3,1,5,4,3,2,4,5,3,4,4,2,3,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,8 to 12 years
+3660,3,2,3,2,4,2,4,5,4,4,3,4,4,2,3,3,4,3,3,4,5,3,3,2,3,4,4,3,4,Companion Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",10 to 15 pounds,11 to 13 Years
+3661,3,2,5,2,4,2,3,5,3,3,2,2,3,3,5,4,4,4,3,1,4,3,3,2,3,4,4,3,5,Mixed Breed Dogs,10 inches to 1 foot tall at the shoulder,45 to 80 pounds,Starts at 10 years
+3662,4,4,4,2,4,4,4,5,4,4,4,4,2,1,2,4,3,2,3,4,3,4,3,2,2,4,4,3,4,Mixed Breed Dogs,16 to 25 inches ,30 to 80 pounds ,12 to 15 years
+3663,4,3,5,2,4,3,4,5,4,4,3,4,1,1,3,3,4,2,4,4,5,4,1,3,3,4,3,3,4,Mixed Breed Dogs,16 to 22 inches,10 to 20 pounds,11 to 13 Years
+3664,4,4,3,1,4,2,3,5,5,4,4,2,2,1,4,5,2,4,4,4,3,1,2,2,1,3,3,3,4,Companion Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",7 to 9 pounds,12 to 15 years
+3665,3,2,3,3,4,2,4,4,4,3,2,4,3,2,1,2,3,3,3,3,3,3,2,2,2,3,3,3,4,Hybrid Dogs,10 to 14 inches,7 to 12 pounds,12 to 15 years
+3666,3,2,4,1,2,4,4,5,5,2,4,2,2,1,5,3,4,1,3,2,4,3,3,3,5,5,4,4,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,12 to 14 years 
+3667,3,4,3,3,2,4,4,4,4,3,3,3,5,1,5,3,3,3,4,4,4,3,5,4,5,5,4,3,4,Hound Dogs,10 to 14 inches,10 to 25 pounds,Starts at 10 years
+3668,4,4,3,2,1,3,3,4,5,3,3,3,1,1,4,4,5,2,3,2,4,4,1,3,2,4,4,3,4,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",30 to 60 pounds,12 to 14 years
+3669,2,4,5,3,3,2,4,5,4,4,4,4,5,2,1,3,3,3,3,4,5,3,4,2,2,3,3,2,4,Working Dogs,12 to 15 inches. ,70 to 115 pounds,12 to 14 years
+3670,3,2,4,3,3,4,4,5,4,3,3,4,3,2,4,3,3,5,3,4,5,5,4,2,3,5,4,3,5,Hybrid Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",4 to 16 pounds ,12 to 14 years
+3671,2,2,3,1,4,3,4,5,4,4,4,3,3,2,2,3,3,5,3,4,4,2,2,2,1,4,3,3,4,Hound Dogs,"1 foot, 11 inches to 2 feet, 6 inches tall at the shoulder",30 to 60 pounds,11 to 13 Years
+3672,3,3,4,1,4,3,5,5,4,4,2,4,4,2,3,4,3,4,4,5,5,2,5,2,3,5,4,5,5,Sporting Dogs,20 to 27 inches ,20 to 75 pounds,12 - 15 years
+3673,3,3,4,1,3,4,4,5,4,4,4,3,4,2,5,4,3,4,3,4,5,3,3,3,3,4,5,4,5,Sporting Dogs,8 to 18 inches ,Starts at 20 pounds,11 to 14 years old
+3674,3,3,2,4,3,2,3,4,2,3,2,3,3,5,3,3,5,3,3,2,4,4,3,3,5,3,3,2,3,Working Dogs,12 to 15 inches. ,18 to 30 pounds,10 to 12 years
+3675,3,2,4,3,4,3,4,5,4,3,4,3,4,2,5,2,3,3,4,2,5,1,4,3,3,4,5,4,4,Hound Dogs,"1 foot to 1 foot, 2 inches tall at the shoulder",55 to 85 pounds ,13 to 15 years
+3676,4,4,3,3,4,4,3,4,4,3,2,3,2,1,4,5,2,2,4,4,4,2,3,4,4,4,4,2,4,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,12 to 14 years
+3677,3,1,4,1,4,2,4,5,4,4,4,4,3,3,2,4,5,2,3,4,3,3,3,3,2,5,5,3,5,Sporting Dogs,15 to 30 inches,75 to 110 pounds,Starts at 10 years
+3678,3,2,5,2,3,2,4,5,4,3,4,3,5,1,4,3,4,4,3,4,4,4,2,4,2,4,4,3,4,Mixed Breed Dogs,"1 foot, 7 inches to 1 foot, 10 inches tall at the shoulder",40 to 60 pounds,12 to 17 years
+3679,4,5,3,2,4,3,4,5,4,3,3,3,1,1,3,3,2,2,3,3,4,4,5,2,2,4,4,2,4,Hybrid Dogs,19 to 24 inches,30 to 60 pounds,6 to 8 years
+3680,4,2,5,2,2,4,5,5,5,5,5,3,5,3,4,4,2,2,4,4,4,4,4,1,3,4,4,5,5,Hound Dogs,19 to 24 inches,33 to 53 pounds,10 to 12 years
+3681,2,2,4,1,4,4,4,5,5,4,4,4,4,1,4,2,3,4,3,4,5,4,3,2,3,5,5,4,5,Herding Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,10 to 14 years 
+3682,3,3,3,3,2,3,4,5,3,3,3,3,3,1,3,3,2,2,4,3,4,4,4,4,3,4,4,1,4,Companion Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,12 to 14 years
+3683,4,3,4,1,4,4,5,5,4,4,4,3,4,1,4,4,4,4,3,4,4,5,3,1,3,5,4,4,5,Mixed Breed Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",50 to 90 pounds,13 to 14 years
+3684,3,1,4,2,5,2,5,5,5,5,5,4,5,3,5,2,3,3,3,4,4,4,5,4,4,4,3,2,3,Working Dogs,16 to 25 inches,7 to 12 pounds,11 to 15 years
+3685,3,2,4,1,4,2,4,5,4,4,3,4,2,1,3,4,2,1,3,5,4,1,3,2,2,5,3,4,4,Mixed Breed Dogs,8 to 18 inches ,4 to 16 pounds ,12 to 14 years
+3686,3,2,4,3,4,4,4,5,4,4,4,3,1,2,5,4,3,4,4,5,5,3,3,4,4,5,5,4,5,Hound Dogs,16 to 25 inches ,Starts at 20 pounds,13 to 16 years
+3687,3,4,4,4,2,5,3,5,3,2,3,3,3,1,5,5,3,3,4,3,3,4,3,4,3,3,2,3,4,Companion Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",30 to 50 pounds,13 to 15 years
+3688,4,4,4,2,4,4,4,5,4,4,3,3,1,1,4,4,4,2,3,3,4,2,3,4,2,4,4,4,4,Mixed Breed Dogs,21 to 27 inches,30 to 80 pounds ,9 to 15 years
+3689,3,2,4,2,4,3,4,5,4,4,3,3,5,2,3,3,3,4,3,4,5,2,4,3,3,4,5,3,4,Working Dogs,8 inches to 10 inches tall at the shoulder,13 to 16 pounds,10 to 12 years
+3690,3,3,5,2,2,3,5,5,5,5,4,3,3,1,3,3,4,4,4,4,5,2,3,4,4,4,4,4,5,Mixed Breed Dogs,12 to 13 inches at the shoulder,30 to 80 pounds ,10 to 12 years
+3691,4,3,4,1,4,3,4,5,4,4,4,3,3,2,5,2,3,2,4,3,4,4,4,1,2,4,3,4,4,Hybrid Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years
+3692,3,3,3,3,4,3,5,4,3,2,5,3,3,2,5,4,3,4,4,2,5,4,5,5,5,5,5,4,5,Sporting Dogs,22 inches to 26 inches tall at the shoulder,50 to 65 pounds,8 to 12 years. 
+3693,3,2,5,1,4,2,5,5,4,4,3,4,5,2,3,4,4,4,4,4,5,3,3,2,3,4,5,3,5,Mixed Breed Dogs,18 to 25 inches,30 to 60 pounds,12 to 17 years
+3694,3,1,4,2,4,1,4,5,5,3,4,4,5,2,3,2,3,4,4,4,4,3,3,2,2,4,5,3,3,Working Dogs,26 to 34 inches tall at the shoulder,13 to 25 pounds,10 to 14 years
+3695,3,3,5,2,4,4,5,5,5,5,5,3,2,1,5,4,3,3,4,5,4,5,5,4,5,5,5,4,5,Terrier Dogs,"2 feet, 1 inch to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,12 to 12 years
+3696,3,4,4,1,3,3,4,5,4,4,4,2,4,2,2,3,3,4,3,5,4,3,2,2,2,4,5,3,5,Herding Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3697,2,2,3,2,5,3,3,2,3,3,5,3,3,1,3,1,3,3,3,3,4,2,2,4,3,3,3,2,4,Sporting Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",18 to 30 pounds,10 to 12 years
+3698,3,1,3,3,4,2,4,5,3,1,3,3,1,1,2,4,2,3,4,2,4,2,4,3,3,4,5,4,5,Sporting Dogs,22 inches to 26 inches tall at the shoulder,70 to 115 pounds,10 to 14 years
+3699,4,5,4,1,3,2,4,5,4,4,4,2,1,1,4,2,4,2,3,4,3,3,3,2,3,4,3,3,5,Companion Dogs,20 to 25 inches,25 to 30 pounds,12 to 15 years
+3700,3,2,2,3,4,3,2,4,4,3,3,2,3,2,3,4,3,2,3,3,4,4,5,3,2,4,4,5,5,Sporting Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",45 to 55 pounds,14 to 16 years
+3701,3,3,4,2,2,2,4,3,3,3,2,3,3,3,4,5,3,3,3,4,4,2,4,2,5,4,4,2,3,Mixed Breed Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",50 to 65 pounds,12 to 14 Years
+3702,4,4,5,2,4,3,4,5,4,5,5,4,4,4,3,3,3,3,4,4,5,3,3,1,3,4,4,3,5,Hybrid Dogs,20 to 27 inches ,75 to 120 pounds,10 to 15 years
+3703,2,2,4,3,4,2,4,5,5,4,4,3,5,3,5,3,3,4,3,4,4,3,2,2,3,4,3,2,5,Hound Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",25 to 30 pounds,10 to 12 years
+3704,3,5,4,1,2,2,4,5,4,4,4,3,4,1,5,3,4,4,3,5,4,3,3,4,2,4,5,3,5,Mixed Breed Dogs,9 to 12 inches,Starts at 20 pounds,12 to 15 years
+3705,3,4,4,2,2,4,4,4,3,4,2,3,4,1,5,5,3,1,3,3,5,4,3,4,4,4,4,4,4,Mixed Breed Dogs,10 inches to 1 foot tall at the shoulder,9 to 15 pounds,12 to 15 years
+3706,3,2,4,2,2,4,3,4,3,2,2,3,3,1,5,4,3,2,4,3,3,4,4,5,4,5,4,4,5,Terrier Dogs,21 to 25 inches at the shoulder,120 to 180 pounds,13 to 15 years
+3707,3,2,4,1,4,4,4,5,4,4,4,4,2,1,5,4,4,4,3,4,5,3,3,2,2,4,5,4,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years. 
+3708,2,1,3,3,5,2,4,5,4,4,3,4,4,3,2,2,2,4,3,4,5,3,2,2,3,5,3,3,5,Hybrid Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",4 to 16 pounds ,10 to 14 years
+3709,3,2,4,3,2,2,3,4,4,2,2,3,2,1,5,4,3,2,4,2,3,3,4,4,5,4,4,4,3,Mixed Breed Dogs,21 to 25 inches at the shoulder,120 to 180 pounds,12 to 16 years
+3710,4,4,3,2,5,2,4,5,4,4,3,3,1,2,2,3,2,4,3,3,4,2,1,4,1,4,4,3,4,Working Dogs,27 to 32 inches tall at the shoulder,15 to 17 pounds,12 to 15 years
+3711,3,2,3,3,4,3,4,5,5,3,3,4,4,2,4,4,1,4,5,5,5,2,1,2,3,4,4,2,4,Sporting Dogs,24 to 31 inches tall at the shoulder,30 to 60 pounds,10 to 15 years
+3712,3,2,4,1,4,3,4,5,4,4,4,4,4,1,4,3,3,5,3,4,5,2,4,3,3,5,5,4,5,Working Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3713,4,2,3,1,5,2,4,5,5,4,4,3,3,2,4,4,3,3,3,3,5,2,2,2,2,4,4,3,4,Working Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",30 to 60 pounds,13 to 15 years
+3714,3,4,3,3,4,2,5,4,5,5,3,3,3,1,4,3,2,5,3,3,4,2,5,4,1,3,3,2,4,Hound Dogs,12 to 15 inches ,30 to 60 pounds,13 to 18 years
+3715,3,5,5,1,4,3,4,5,5,5,5,3,4,3,3,4,4,4,4,5,5,4,4,4,3,4,5,3,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",70 to 115 pounds,12 to 14 years
+3716,2,4,3,1,4,3,5,5,5,5,5,3,4,1,3,4,5,2,3,4,4,4,2,4,5,3,3,3,4,Companion Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,12 to 15 years
+3717,3,2,3,2,3,3,3,5,1,5,2,3,5,5,3,3,3,3,4,3,4,4,5,3,4,4,2,3,4,Working Dogs,12 to 15 inches. ,18 to 30 pounds,10 to 13 years
+3718,3,3,4,1,4,2,4,5,4,4,4,2,1,1,5,3,3,1,4,5,5,4,3,2,3,5,5,3,5,Terrier Dogs,20 to 25 inches,9 to 15 pounds,14 to 15 years
+3719,4,3,5,1,4,4,4,5,4,3,3,3,5,1,2,4,3,3,4,5,4,4,3,2,5,4,3,4,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",17 to 23 pounds,12 to 16 years
+3720,3,3,2,1,4,4,5,4,3,2,2,3,3,1,5,5,5,3,4,5,5,2,5,5,5,5,5,5,4,Sporting Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",14 to 16 pounds,10 to 14 years
+3721,4,4,4,2,4,3,5,5,5,5,5,3,5,1,5,3,3,2,4,4,5,4,5,3,4,4,5,5,5,Sporting Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",25 to 35 pounds. ,9 to 12 years
+3722,3,5,4,1,3,4,3,4,3,2,2,3,2,1,5,3,3,1,4,4,5,3,4,5,5,5,5,4,5,Hybrid Dogs,21 to 25 inches at the shoulder,55 to 90 pounds,8 to 13 years
+3723,3,2,4,1,3,2,4,5,5,4,3,2,3,1,5,4,3,4,3,2,4,3,5,4,3,4,5,3,4,Companion Dogs,20 to 25 inches,Starts at 20 pounds,10 to 14 years. 
+3724,2,3,4,2,5,3,4,5,5,4,5,3,3,3,3,3,4,3,3,4,4,2,4,4,1,4,4,3,4,Hound Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years. 
+3725,4,1,2,3,3,2,2,4,3,3,1,3,3,1,1,3,3,5,3,3,4,4,5,3,4,4,2,3,4,Companion Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",30 to 60 pounds,10 to 12 years 
+3726,3,5,4,2,3,3,4,5,4,4,3,2,4,1,3,4,1,3,3,5,4,2,3,2,3,4,4,3,4,Mixed Breed Dogs,8 to 18 inches ,9 to 13 pounds,12 to 15 years
+3727,3,4,4,3,3,4,4,5,4,2,2,3,2,1,5,2,3,3,4,2,4,4,5,4,3,3,4,4,5,Hound Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,12 to 15 years
+3728,3,3,3,3,4,3,5,5,5,5,2,3,4,1,3,4,3,1,3,1,4,4,5,4,5,4,3,3,4,Working Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",18 to 30 pounds,10 to 12 years
+3729,3,2,5,2,5,3,4,5,5,3,1,4,4,2,1,3,3,4,4,3,4,4,3,4,3,2,4,3,4,Working Dogs,16 to 25 inches,7 to 12 pounds,10 to 12 years
+3730,3,4,5,2,3,2,4,4,5,4,4,2,2,1,5,5,3,1,3,4,4,4,5,5,2,3,3,1,5,Companion Dogs,20 to 25 inches,9 to 15 pounds,12 to 15 years
+3731,2,1,2,2,5,2,5,5,5,5,5,3,4,4,5,4,5,5,4,3,4,5,4,1,5,4,4,5,5,Working Dogs,12 to 16 inches ,33 to 55 pounds,10 to 14 years
+3732,4,3,3,2,4,3,3,4,3,2,2,3,2,1,1,4,3,1,4,3,4,4,3,5,3,4,4,4,4,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",44 to 55 pounds. ,12 to 15 years
+3733,3,3,4,1,4,4,4,5,4,4,4,3,4,2,4,3,4,4,3,4,5,2,3,3,3,5,5,3,5,Mixed Breed Dogs,8 to 18 inches ,40 to 180 pounds,6 to 8 years
+3734,3,1,3,2,5,2,5,5,5,5,5,4,5,5,3,3,5,4,4,4,4,4,5,1,3,5,4,2,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3735,3,2,5,1,1,2,4,5,4,4,4,2,4,1,2,3,4,4,3,4,4,2,4,2,3,4,4,4,4,Mixed Breed Dogs,20 to 27 inches ,Starts at 20 pounds,10 to 12 years
+3736,3,3,2,3,4,2,4,2,3,1,1,4,3,3,2,4,3,3,3,3,3,3,4,1,2,3,2,3,2,Sporting Dogs,10 to 14 inches,50 to 110 pounds,10 to 15 years
+3737,3,3,3,2,2,4,3,4,3,2,4,2,2,1,5,3,2,2,4,2,4,1,4,5,4,4,4,5,5,Mixed Breed Dogs,11 to 24 inches,120 to 180 pounds,12 to 16 years
+3738,3,1,3,2,1,5,5,4,1,5,2,3,4,4,2,4,3,3,4,2,4,2,5,4,5,3,2,2,4,Hound Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",18 to 30 pounds,12 to 14 years 
+3739,3,2,5,3,4,4,5,5,4,5,4,3,4,1,4,4,4,4,4,5,4,2,4,2,3,4,4,4,3,Mixed Breed Dogs,19 to 22 inches,15 to 19 pounds,10 to 12 years
+3740,3,3,3,2,5,2,5,5,5,5,5,3,3,1,1,3,2,3,3,3,4,2,5,4,4,4,4,2,4,Hound Dogs,12 to 15 inches. ,30 to 60 pounds,12 to 15 years
+3741,3,2,3,3,2,2,3,4,3,3,4,2,1,1,2,4,3,1,3,2,4,2,3,3,3,4,4,4,5,Herding Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,13 to 15 years
+3742,3,2,4,3,4,2,4,5,4,4,4,4,4,2,4,3,2,4,4,4,4,2,3,3,2,4,5,4,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",40 to 180 pounds,10 to 14 years
+3743,3,2,2,3,3,2,5,4,5,3,2,3,3,1,2,4,3,3,4,3,4,1,1,1,2,5,5,4,5,Hound Dogs,10 to 13 inches,70 to 130 pounds,10 to 15 years 
+3744,3,5,4,1,1,5,3,5,3,3,2,2,2,1,1,5,5,1,3,3,3,4,2,4,2,3,3,3,5,Companion Dogs,21 to 25 inches at the shoulder,70 to 80 pounds,12 to 15 years
+3745,2,2,3,3,5,1,4,3,2,1,1,4,4,1,2,2,4,5,2,3,1,3,1,2,1,3,2,2,3,Working Dogs,18 to 22 Inches,45 to 70 pounds,12 to 14 years 
+3746,2,3,3,1,4,5,4,5,5,3,4,3,2,3,3,4,3,3,4,5,4,2,4,4,4,4,5,2,4,Sporting Dogs,12 to 15 inches. ,30 to 60 pounds,12 to 14 years
+3747,3,3,3,2,3,4,5,5,4,5,4,3,4,3,4,3,4,5,3,5,3,4,3,2,4,4,4,3,5,Terrier Dogs,20 to 27 inches ,75 to 95 pounds,10 to 15 years
+3748,3,4,3,2,4,2,3,3,3,3,3,3,1,2,3,3,2,2,3,2,4,2,4,2,2,3,2,3,4,Mixed Breed Dogs,7 to 12 inches,8 to 14 pounds,6 to 10 years
+3749,4,3,3,3,4,3,3,4,3,3,2,3,3,1,2,5,2,2,3,3,4,4,5,3,3,4,4,2,4,Herding Dogs,12 to 16 inches,70 to 115 pounds,12 to 14 years
+3750,3,2,3,2,4,2,4,4,4,2,2,4,3,3,5,3,4,3,3,5,4,3,5,4,2,3,4,3,3,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",90 to 150 pounds. ,13 to 15 years
+3751,3,3,3,3,3,2,3,4,3,3,3,3,1,3,3,5,2,3,3,3,4,2,5,3,4,4,4,3,5,Working Dogs,12 to 15 inches ,110 to 200 pounds,12 to 16 years 
+3752,3,3,4,2,4,2,4,5,1,3,3,2,2,3,5,4,3,2,3,2,4,2,4,2,4,3,4,3,4,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",13 to 18 pounds,12 to 17 years
+3753,2,1,3,1,5,2,5,5,5,2,1,4,5,5,1,4,2,5,2,4,4,5,3,4,1,4,2,5,4,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,10 to 15 years
+3754,3,2,3,3,2,4,4,4,3,3,2,3,3,2,4,3,3,3,3,3,4,3,3,2,2,4,3,2,4,Mixed Breed Dogs,10 to 25 inches,25 to 50 pounds,12 to 15 years
+3755,3,3,3,2,2,3,3,4,3,2,2,3,2,1,4,5,2,1,3,3,3,3,4,5,5,5,4,4,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,7 to 9 years
+3756,3,2,3,2,4,1,4,4,5,3,3,3,2,1,5,5,3,3,4,2,5,2,3,3,4,5,5,5,5,Working Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",9 to 20 pounds ,12 to 16 years
+3757,3,2,4,2,3,4,4,5,4,3,3,3,3,1,5,4,3,5,3,5,5,4,3,5,3,5,5,4,5,Terrier Dogs,"2 feet, 2 inches to 2 feet, 6 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3758,4,4,4,2,2,3,3,5,5,5,2,3,2,1,5,4,3,2,4,3,4,4,5,5,4,5,4,5,5,Hound Dogs,22 to 30 inches.,15 to 35 pounds ,8 to 13 years
+3759,4,5,5,1,2,2,4,5,4,4,4,2,1,1,1,3,2,1,3,4,4,3,2,2,3,4,3,3,4,Companion Dogs,11 to 17 inches,55 to 85 pounds ,12 to 15 years
+3760,3,2,4,1,4,3,5,5,5,5,5,3,5,2,3,4,4,3,4,5,5,2,3,3,4,4,5,4,5,Terrier Dogs,26 to 34 inches tall at the shoulder,60 to 95 pounds ,10 to 14 years
+3761,2,1,4,1,5,4,5,5,5,5,3,3,4,4,2,1,3,5,2,5,5,5,4,1,5,5,4,5,5,Working Dogs,24 to 31 inches tall at the shoulder,Starts at 30 pounds,10 to 12 years
+3762,3,5,4,2,4,3,3,4,5,3,3,3,3,1,5,4,2,2,4,3,4,4,5,4,5,4,5,5,4,Sporting Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,8 to 11 years
+3763,3,3,4,3,4,2,3,4,4,3,2,3,2,2,5,3,3,2,4,2,3,4,4,4,4,4,4,4,4,Hound Dogs,27 to 34 inches,120 to 180 pounds,10 to 14 years 
+3764,2,1,4,2,4,1,5,5,5,5,5,3,4,3,3,3,5,4,4,3,4,2,5,4,4,4,4,3,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3765,3,2,5,2,3,2,4,5,4,4,3,3,4,4,3,4,3,4,3,4,5,2,2,2,2,4,4,3,4,Mixed Breed Dogs,9 to 15 inches,70 to 115 pounds,8 to 12 years
+3766,4,2,4,1,2,5,4,5,4,3,5,4,1,1,4,2,4,2,3,4,4,3,3,2,1,4,3,3,4,Companion Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",35 to 55 pounds,12 to 16 years
+3767,4,2,3,4,3,2,4,3,3,1,3,4,3,1,4,4,3,3,3,4,4,2,5,3,1,4,2,2,5,Terrier Dogs,16 to 25 inches,10 to 25 pounds,10 to 12 years
+3768,3,3,3,2,5,1,4,5,4,4,4,4,4,2,3,3,3,5,3,4,4,3,3,2,1,4,2,4,2,Mixed Breed Dogs,8 inches to 10 inches tall at the shoulder,115 to 180 pounds,10 to 14 years
+3769,3,4,3,1,4,3,4,5,5,4,5,3,1,2,3,2,5,4,3,3,4,4,3,3,3,4,4,2,4,Mixed Breed Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,Starts at 14 years
+3770,3,4,4,2,2,2,4,4,5,3,4,3,3,1,3,4,2,2,4,5,4,3,4,4,5,4,4,2,5,Mixed Breed Dogs,"1 foot, 11 inches to 2 feet, 4 inches tall at the shoulder",50 to 90 pounds,7 to 9 years
+3771,3,4,4,2,4,2,4,5,4,3,4,4,4,3,2,2,3,3,3,3,4,5,3,2,2,3,3,3,4,Sporting Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",5 to 25 pounds ,8 to 12 years
+3772,3,2,4,2,4,4,5,5,5,4,5,4,5,2,2,3,5,4,4,4,4,3,5,3,4,3,5,5,4,Sporting Dogs,13 to 20 inches,25 to 70 pounds,10 to 14 years
+3773,3,4,3,3,2,4,3,4,3,2,2,2,3,1,2,3,3,2,3,2,3,3,5,5,2,3,3,2,3,Terrier Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 11 years
+3774,3,3,4,1,2,2,4,4,2,2,4,3,4,3,4,3,3,3,3,3,3,3,4,2,3,4,4,4,5,Mixed Breed Dogs,6 to 11 inches ,40 to 180 pounds,9 to 15 years
+3775,3,2,4,1,2,4,3,4,3,3,2,3,2,1,5,3,2,2,4,2,4,4,5,5,5,5,5,4,5,Herding Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3776,3,5,5,3,4,3,4,5,5,4,4,3,3,2,3,4,3,3,3,4,5,3,4,2,3,4,5,3,4,Herding Dogs,12 to 15 inches ,70 to 115 pounds,12 to 15 years
+3777,2,1,5,1,5,1,5,5,5,5,5,4,3,5,5,1,5,4,4,4,5,4,4,4,4,4,5,2,4,Working Dogs,"1 foot, 3 inches to 1 foot, 7 inches tall at the shoulder",40 to 60 pounds,10 to 11 years
+3778,3,2,3,4,5,2,3,5,4,1,2,4,5,4,3,1,2,3,2,4,4,3,1,2,4,4,2,3,2,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",7 to 12 pounds,10 to 12 years
+3779,3,2,2,2,4,2,4,5,3,4,3,4,4,3,5,3,4,4,3,4,3,2,3,2,3,4,4,5,4,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",8 to 18 pounds ,12 to 15 years
+3780,3,2,5,1,5,4,5,5,5,5,5,3,5,1,5,4,3,4,4,5,5,2,3,4,4,5,4,3,5,Working Dogs,19 to 24 inches,17 to 23 pounds,12 to 18 years
+3781,4,5,5,3,5,3,4,5,5,4,5,2,1,1,4,3,3,2,3,3,4,4,2,2,3,4,3,3,4,Companion Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",44 to 50 pounds,12 to 15 years
+3782,3,5,3,2,3,2,4,4,4,3,2,2,2,1,2,3,2,2,3,3,4,4,2,3,3,4,3,3,5,Companion Dogs,11 to 24 inches,9 to 20 pounds ,12 to 14 years
+3783,3,3,3,3,1,2,3,4,3,1,2,3,1,1,2,5,3,2,4,3,3,4,5,4,5,3,3,2,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",110 to 200 pounds,10 to 12 years
+3784,3,4,4,2,2,3,4,4,4,3,3,2,4,1,4,4,3,1,3,4,4,3,3,2,2,3,3,3,4,Terrier Dogs,21 to 25 inches at the shoulder,40 to 95 pounds,10 to 15 years
+3785,3,2,4,1,2,4,3,5,5,3,4,2,2,1,5,4,4,2,3,2,3,3,4,4,2,5,4,4,5,Mixed Breed Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",9 to 15 pounds,10 to 14 years
+3786,3,2,4,3,5,1,4,4,3,3,3,2,1,1,3,2,3,1,4,2,4,4,2,4,4,4,3,3,3,Working Dogs,7 to 12 inches,30 to 50 pounds,8 to 12 years
+3787,4,4,3,1,2,3,4,4,3,3,3,3,3,1,4,3,2,1,3,3,4,3,2,3,2,3,3,2,4,Companion Dogs,10 to 14 inches,From 10 to 90 pounds,10 to 13
+3788,4,3,5,1,3,4,4,5,5,4,4,3,1,1,2,3,4,2,5,5,4,4,3,4,4,4,5,4,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,10 to 15 years
+3789,3,2,4,1,2,4,4,5,4,4,4,4,5,2,5,3,3,4,3,5,5,3,3,2,3,5,5,4,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,10 to 14 years. 
+3790,3,4,3,3,2,3,3,4,3,2,3,2,3,1,5,5,3,1,3,2,3,4,5,3,2,3,2,2,3,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,6 to 10 years
+3791,2,2,4,2,4,3,4,5,4,4,4,4,4,2,3,4,4,4,3,5,5,4,3,2,3,4,5,3,4,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",25 to 30 pounds,12 to 15 years
+3792,3,4,4,3,1,2,5,4,3,3,3,2,1,1,1,4,3,2,3,3,4,2,5,3,2,4,3,2,4,Mixed Breed Dogs,6 to 10 inches,45 to 55 pounds,12 to 15 years 
+3793,3,4,4,1,3,2,4,5,3,3,4,2,2,1,5,5,3,2,4,4,4,4,3,3,2,5,5,5,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 16 years
+3794,3,3,4,1,2,3,4,5,4,5,3,3,4,2,4,3,5,2,4,4,4,2,3,4,4,4,4,4,4,Mixed Breed Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",30 to 80 pounds ,12 to 15 years
+3795,3,1,2,2,4,4,4,5,5,2,2,3,3,3,3,4,3,5,4,3,4,4,4,4,3,4,4,2,4,Herding Dogs,12 to 16 inches ,70 to 115 pounds,10 to 14 years. 
+3796,4,5,2,3,5,3,4,2,1,4,1,2,4,1,3,2,2,3,3,3,4,3,1,4,1,3,3,2,4,Companion Dogs,10 to 14 inches,18 to 30 pounds,10 to 15 years
+3797,3,2,3,2,4,2,3,4,5,2,2,3,3,5,3,3,2,2,3,3,3,2,5,4,4,4,4,2,4,Mixed Breed Dogs,19 to 24 inches,30 to 60 pounds,8 to 12 years
+3798,4,2,3,2,1,4,5,5,5,5,5,3,3,3,4,3,2,3,4,3,4,2,5,4,4,4,4,2,4,Hound Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,13 to 15 years
+3799,3,3,4,2,3,4,3,4,5,5,2,3,1,1,5,5,2,2,4,2,4,4,5,4,5,4,5,4,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",Up to 7 pounds,12 to 15 years 
+3800,3,5,5,3,2,4,4,5,4,3,4,2,1,1,5,3,1,2,4,4,4,4,5,2,2,4,5,4,5,Hybrid Dogs,16 to 25 inches ,9 to 15 pounds,10 to 15 years
+3801,3,2,3,3,4,3,4,5,4,3,3,4,3,1,2,4,3,3,3,4,4,3,4,3,3,4,5,3,5,Herding Dogs,20 to 25 inches,13 to 25 pounds,10 to 15 years
+3802,3,2,3,3,2,3,4,5,4,4,3,4,4,2,4,4,2,3,3,4,4,3,3,3,3,4,4,3,5,Working Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",75 to 140 pounds,11 to 15 years
+3803,3,2,4,3,2,2,3,4,3,3,2,3,4,1,5,5,4,2,3,3,3,4,3,4,2,3,4,4,3,Mixed Breed Dogs,22 to 30 inches.,15 to 35 pounds ,12 to 16 years
+3804,3,2,4,1,3,2,3,4,5,2,3,2,2,1,5,3,4,4,3,2,3,3,4,1,4,3,3,5,5,Mixed Breed Dogs,19 to 25 inches,15 to 35 pounds ,12 to 15 years 
+3805,3,3,4,1,3,3,4,5,4,3,3,3,4,1,3,3,3,3,3,4,4,2,4,2,2,4,4,3,4,Mixed Breed Dogs,12 to 15 inches ,70 to 115 pounds,8 to 15 years
+3806,3,3,4,3,4,3,5,4,3,4,5,3,5,1,5,4,3,2,4,2,4,4,5,4,5,2,5,3,5,Companion Dogs,22 inches to 26 inches tall at the shoulder,7 to 9 pounds,10 to 12 years
+3807,3,4,3,3,2,2,3,4,3,3,2,3,3,1,4,5,3,2,4,3,3,2,4,4,4,3,4,5,4,Terrier Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",45 to 100 pounds,10 to 15 years
+3808,3,2,3,1,3,4,4,5,5,4,2,3,2,1,4,3,3,3,4,5,4,3,3,2,3,5,5,4,5,Herding Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",9 to 15 pounds,12 to 15 years
+3809,3,1,4,2,2,4,5,5,5,5,5,4,5,5,5,4,4,4,4,5,5,1,3,3,4,4,5,4,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,10 to 13 years
+3810,3,2,3,3,5,3,4,5,5,4,4,4,1,2,3,3,4,5,3,5,4,4,3,2,3,4,5,4,4,Working Dogs,8 inches to 10 inches tall at the shoulder,15 to 17 pounds,10 to 12 years 
+3811,3,5,4,1,2,4,4,5,4,4,4,3,1,1,5,3,3,2,3,4,3,3,3,2,2,5,5,3,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,10 to 15 years
+3812,3,4,4,1,4,4,5,5,5,2,2,3,1,1,2,3,3,1,3,3,4,4,3,2,3,5,3,3,5,Mixed Breed Dogs,16 to 25 inches ,40 to 180 pounds,10 to 14 years
+3813,3,4,3,3,2,2,3,4,3,1,2,3,1,1,5,5,3,1,4,4,3,4,5,5,1,3,4,4,4,Mixed Breed Dogs,7 to 12 inches,15 to 35 pounds ,9 to 11 years 
+3814,4,3,5,2,4,4,4,5,4,4,4,3,2,1,3,3,4,4,3,4,5,2,3,4,3,4,5,3,5,Sporting Dogs,26 to 34 inches tall at the shoulder,11 to 20 pounds,10 to 15 years
+3815,3,3,2,1,3,3,4,5,5,3,4,4,4,1,5,3,4,4,4,3,4,3,3,2,3,5,5,3,5,Hound Dogs,9 to 12 inches,4 to 16 pounds ,10 to 16 years
+3816,3,3,5,2,4,4,4,5,4,4,4,3,1,1,2,4,4,2,4,4,5,2,4,3,3,4,4,4,4,Terrier Dogs,16 to 25 inches,30 to 60 pounds,12 to 15 years
+3817,3,3,2,2,2,3,3,4,3,5,3,2,2,1,4,3,5,1,4,3,4,4,2,1,4,4,4,3,4,Herding Dogs,22 inches to 26 inches tall at the shoulder,44 to 55 pounds. ,Starts at 14 years
+3818,4,2,5,2,5,4,5,5,5,5,5,3,5,3,3,3,5,3,4,3,5,5,5,2,4,4,4,2,4,Hound Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",30 to 60 pounds,6 to 10 years
+3819,3,5,5,1,3,4,4,5,5,2,4,2,2,1,5,3,4,1,4,4,3,4,3,2,3,5,5,3,5,Companion Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3820,3,1,4,2,4,4,4,4,4,4,3,2,4,1,3,4,3,5,3,3,4,3,3,2,4,4,5,3,5,Hybrid Dogs,8 to 18 inches ,55 to 70 pounds,12 to 15 years
+3821,3,2,5,4,2,3,4,5,5,4,3,3,2,1,3,4,3,2,4,3,5,2,3,3,4,4,4,3,4,Mixed Breed Dogs,19 to 22 inches,25 to 35 pounds. ,Starts at 10 years
+3822,4,4,3,3,2,3,3,4,1,2,2,3,3,1,4,5,3,2,4,3,4,4,2,5,4,3,3,2,3,Companion Dogs,22 inches to 26 inches tall at the shoulder,44 to 55 pounds. ,12 to 15 years
+3823,4,3,3,1,1,3,3,4,3,3,3,3,2,1,5,5,3,1,3,5,4,3,3,3,4,4,4,4,4,Mixed Breed Dogs,22 to 30 inches.,9 to 15 pounds,12 to 14 years
+3824,3,4,4,2,2,4,3,4,3,2,2,3,2,1,5,4,3,2,3,2,4,2,4,5,5,5,4,4,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3825,3,1,5,1,4,4,5,5,5,4,4,3,5,2,4,4,2,3,4,4,4,3,3,4,5,4,5,5,5,Hound Dogs,6 to 14 inches,Starts at 20 pounds,10 to 12 years
+3826,3,3,4,1,3,4,3,5,4,5,3,3,2,1,5,5,3,3,4,2,4,2,3,4,5,4,4,5,5,Sporting Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3827,4,3,4,3,4,3,4,4,4,2,3,3,3,1,5,3,3,2,4,2,4,4,5,4,4,4,4,4,4,Terrier Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",60 to 75 pounds,14 to 16 years
+3828,3,3,4,1,2,4,5,4,3,3,4,3,3,1,5,5,3,4,3,2,4,1,4,2,3,5,5,4,5,Mixed Breed Dogs,16 to 25 inches ,9 to 15 pounds,10 to 14 years. 
+3829,2,1,3,2,5,3,5,5,4,4,2,4,4,4,3,3,3,3,3,4,3,5,4,2,1,4,3,2,5,Working Dogs,24 to 31 inches tall at the shoulder,15 to 17 pounds,10 to 12 years
+3830,3,4,4,3,4,2,3,4,3,4,2,2,2,1,1,4,4,1,3,4,4,4,3,4,2,4,2,3,4,Hybrid Dogs,7 to 12 inches,40 to 70 pounds,12 to 15 years
+3831,3,5,4,1,3,4,4,5,4,3,2,2,4,1,5,4,3,3,3,4,4,3,3,2,3,4,5,3,5,Hybrid Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",70 to 80 pounds,12 to 15 years
+3832,3,3,3,3,1,1,4,4,3,3,3,3,1,1,2,5,5,2,4,3,3,4,5,4,3,3,4,3,4,Sporting Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 55 pounds,10 to 13
+3833,4,4,3,1,4,4,5,4,5,2,5,3,2,1,2,2,5,2,4,5,5,4,4,4,4,3,4,5,4,Terrier Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",50 to 65 pounds,12 to 14 years
+3834,2,5,4,1,5,3,5,5,5,5,3,4,5,2,3,3,3,3,4,3,3,2,5,3,3,4,3,3,4,Companion Dogs,19 to 24 inches,30 to 60 pounds,10 to 14 years
+3835,2,1,4,2,5,1,5,5,5,5,5,4,5,5,1,1,4,5,2,3,5,5,1,4,4,4,2,2,3,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3836,3,4,4,2,3,4,4,5,4,4,3,2,4,1,3,3,3,4,3,2,4,4,4,2,2,4,5,3,4,Hybrid Dogs,8 to 18 inches ,9 to 13 pounds,12 to 15 years
+3837,3,1,4,1,3,4,5,5,5,5,5,4,4,4,2,3,3,4,4,5,5,2,5,3,3,4,5,5,5,Herding Dogs,26 to 34 inches tall at the shoulder,10 to 15 pounds,10 to 14 years
+3838,3,3,2,2,4,4,3,4,4,2,3,3,3,1,5,4,3,2,4,2,4,3,4,4,3,5,4,4,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 14 years
+3839,3,2,5,1,2,2,4,5,5,3,4,2,2,1,5,4,4,2,3,2,3,3,3,4,2,5,4,3,5,Companion Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",120 to 180 pounds,13 to 16 years
+3840,4,2,4,1,4,1,4,5,5,3,4,3,3,3,3,4,3,3,4,4,4,4,5,4,5,4,4,5,4,Mixed Breed Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",40 to 60 pounds,9 to 15 years
+3841,3,2,3,2,3,4,3,4,3,3,2,3,3,1,2,4,3,3,4,3,4,2,5,5,3,3,4,2,3,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",8 to 14 pounds,12 to 16 years
+3842,3,5,4,3,4,2,4,5,4,4,4,3,1,2,4,4,4,5,3,3,4,2,1,2,2,4,3,3,4,Mixed Breed Dogs,"1 foot, 8 inches to 1 foot, 11 inches tall at the shoulder",75 to 140 pounds,10 to 16 years
+3843,3,2,4,2,4,4,4,5,4,3,4,3,4,1,5,3,3,4,3,4,5,3,3,2,3,5,5,4,5,Herding Dogs,20 to 25 inches,Starts at 20 pounds,12 to 15 years
+3844,3,2,3,1,4,4,4,5,5,4,3,4,4,4,3,3,4,5,5,4,4,3,3,2,2,4,5,3,4,Working Dogs,20 to 27 inches ,14 to 18 pounds,10 to 15 years
+3845,3,2,3,3,3,3,3,4,3,3,2,2,4,2,1,4,2,1,3,3,3,3,2,4,2,4,4,4,3,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 15 years
+3846,3,4,3,3,2,4,3,4,2,3,2,3,2,1,2,4,3,1,4,3,4,4,5,4,4,3,4,4,5,Companion Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,12 to 15 years
+3847,3,4,5,2,2,4,3,5,3,4,3,3,2,1,1,4,3,1,4,5,4,2,4,2,4,5,5,4,4,Herding Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,12 to 14 years
+3848,3,1,3,3,5,3,3,2,3,3,2,3,3,2,4,3,2,3,4,3,4,4,5,4,2,3,2,2,4,Hound Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",18 to 30 pounds,10 to 12 years
+3849,2,2,3,2,4,3,5,5,5,4,5,3,4,3,3,4,2,4,4,3,5,2,4,4,4,4,4,3,4,Sporting Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3850,2,1,3,2,5,3,5,5,5,3,3,3,3,2,5,3,5,3,3,2,5,2,5,4,5,3,5,5,5,Sporting Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",25 to 70 pounds,8 to 10 years
+3851,3,3,5,1,4,4,4,5,4,4,4,2,4,1,5,3,4,4,3,4,4,3,3,2,1,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,9 to 15 pounds,12 to 15 years
+3852,3,2,4,3,4,3,4,5,3,4,4,3,2,2,3,4,4,5,3,5,5,3,3,1,3,4,4,3,5,Mixed Breed Dogs,"1 foot, 9 inches to 1 foot, 11 inches tall at the shoulder",55 to 85 pounds ,8 to 12 years. 
+3853,3,5,5,1,1,4,5,5,5,5,5,3,2,1,5,3,2,2,3,5,5,5,3,4,3,5,5,4,5,Mixed Breed Dogs,24 to 34 inches,50 to 90 pounds,9 to 15 years
+3854,3,4,4,1,4,3,5,5,4,4,4,3,3,3,3,3,4,4,3,4,5,2,5,2,3,4,3,3,4,Herding Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years
+3855,4,4,5,1,2,4,4,5,4,2,2,3,4,1,2,2,3,2,4,4,4,3,3,2,5,4,4,3,5,Mixed Breed Dogs,16 to 25 inches ,120 to 180 pounds,12 to 15 years
+3856,4,5,4,1,4,2,5,5,3,5,5,3,1,1,4,4,3,2,3,3,4,3,5,4,5,4,3,2,4,Companion Dogs,22 inches to 26 inches tall at the shoulder,18 to 30 pounds,10 to 13
+3857,3,5,4,1,3,2,4,5,4,4,3,3,2,2,5,3,2,1,3,4,3,4,1,2,2,3,3,3,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,45 to 80 pounds,14 to 17 years
+3858,3,2,5,2,4,3,5,5,5,5,4,3,5,1,4,4,4,4,4,5,5,3,2,4,5,4,4,3,4,Mixed Breed Dogs,18 to 25 inches,75 to 140 pounds,10 to 15 years
+3859,4,5,3,3,2,4,3,4,5,4,2,3,2,1,1,4,3,2,3,3,3,3,2,3,2,3,4,3,4,Terrier Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",17 to 23 pounds,12 to 14 years
+3860,3,2,4,2,4,4,4,5,4,4,3,2,4,1,5,4,3,1,3,2,4,2,3,4,3,5,4,4,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,14 to 15 years
+3861,3,3,4,2,3,3,4,5,1,3,2,3,1,1,3,5,4,1,5,4,4,3,4,4,4,5,5,3,5,Terrier Dogs,12 to 20 inches,14 to 16 pounds,10 to 15 years
+3862,3,2,2,2,4,3,4,4,3,2,3,4,2,1,2,4,3,1,3,3,3,3,5,3,5,5,4,3,4,Mixed Breed Dogs,9 inches to 10 inches tall at the shoulder,9 to 15 pounds,13 to 18 years
+3863,4,1,3,2,4,3,5,5,5,5,5,3,3,2,3,4,2,3,4,3,5,5,5,4,4,4,5,5,5,Sporting Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3864,3,4,5,2,4,3,3,4,3,3,3,2,3,1,5,3,3,3,3,2,3,4,5,4,3,4,4,3,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years
+3865,2,3,2,2,1,3,3,4,2,2,2,3,5,1,5,3,3,1,4,3,3,2,2,4,2,4,3,2,4,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 65 pounds,6 to 10 years
+3866,3,3,5,1,1,4,5,5,5,5,5,3,5,1,1,2,3,2,4,5,4,3,5,5,5,5,5,5,5,Working Dogs,"1 foot, 11 inches to 2 feet, 1 inch tall at the shoulder",25 to 45 pounds,10 to 13 years
+3867,2,3,4,3,2,3,4,4,3,5,2,3,4,1,4,3,2,1,3,3,4,3,5,4,4,4,4,5,5,Mixed Breed Dogs,17 to 20 inches.,25 to 35 pounds. ,9 to 11 years 
+3868,2,2,4,3,4,2,4,5,3,3,5,4,3,3,1,2,4,5,4,3,4,5,2,3,3,4,4,2,3,Working Dogs,12 to 15 inches. ,70 to 115 pounds,10 to 14 years. 
+3869,3,2,4,1,2,3,4,5,4,3,3,4,2,2,5,4,4,4,3,1,5,2,3,2,3,4,4,4,5,Mixed Breed Dogs,"1 foot, 3 inches to 2 feet, 2 inches tall at the shoulder",40 to 180 pounds,12 to 14 Years
+3870,3,2,5,5,4,3,4,4,4,2,4,2,2,1,5,4,3,4,4,2,3,3,3,3,4,4,5,4,5,Hound Dogs,16 to 25 inches ,15 to 35 pounds ,12 to 18 years
+3871,4,3,3,2,4,3,4,5,5,4,4,3,5,1,5,2,3,4,4,4,4,3,3,2,4,5,4,5,5,Sporting Dogs,12 to 15 inches ,75 to 120 pounds,10 to 14 years
+3872,4,3,5,2,3,3,4,5,4,2,2,3,2,1,1,3,2,1,4,3,4,2,5,4,1,3,3,2,4,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",7 to 12 pounds,12 to 15 years
+3873,3,2,4,1,2,4,4,5,5,4,4,2,2,1,2,3,3,4,3,4,4,4,4,2,3,5,5,4,5,Mixed Breed Dogs,18 to 23.5 inches,Starts at 20 pounds,10 to 15 years
+3874,3,2,4,2,4,2,4,5,5,1,2,4,4,5,4,3,4,5,2,4,4,3,3,2,4,2,2,3,5,Herding Dogs,17 to 20 inches tall at the shoulder,4 to 16 pounds ,8 to 13 years
+3875,3,3,3,3,4,4,4,5,4,3,3,3,2,2,2,4,2,3,4,2,4,5,2,2,5,4,4,4,5,Herding Dogs,23 to 25 inches,15 to 35 pounds ,8 to 12 years. 
+3876,3,4,4,2,4,2,4,5,2,4,2,4,1,1,5,2,4,3,3,3,4,4,2,5,2,4,4,3,4,Sporting Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",8 to 18 pounds,10 to 13 years
+3877,2,1,3,3,5,3,4,5,5,1,2,3,5,4,1,1,4,3,2,3,1,4,5,2,4,4,4,2,3,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",30 to 60 pounds,12 to 15 years 
+3878,3,4,3,1,4,4,3,4,3,2,2,3,2,1,4,5,3,2,4,2,3,4,5,4,4,4,4,2,4,Sporting Dogs,22 inches to 26 inches tall at the shoulder,44 to 55 pounds. ,11 to 13 years
+3879,4,4,4,1,4,3,4,5,3,3,3,2,1,2,4,3,2,3,3,3,5,3,2,2,2,4,4,3,4,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",50 to 70 pounds,12 to 13 years
+3880,3,3,3,3,2,4,3,4,5,2,3,3,3,1,2,3,1,2,3,3,4,4,4,3,4,4,4,4,5,Terrier Dogs,22 inches to 26 inches tall at the shoulder,50 to 70 pounds,10 to 15 years
+3881,3,2,4,3,3,3,4,5,4,3,4,3,4,1,5,3,3,4,3,4,5,3,3,4,2,5,5,3,5,Mixed Breed Dogs,20 to 25 inches,120 to 180 pounds,10 to 15 years
+3882,4,4,3,3,2,3,3,4,3,3,2,3,2,1,4,5,3,2,3,3,4,4,5,4,5,4,4,3,4,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,9 to 13 years
+3883,4,4,3,2,4,2,5,4,4,3,2,2,3,1,2,4,3,2,3,3,4,4,3,4,3,4,4,3,4,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 70 pounds,12 to 14 years
+3884,3,2,3,2,3,3,4,5,1,2,2,3,5,5,1,4,2,5,4,2,3,3,4,3,2,2,4,2,4,Working Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",110 to 200 pounds,10 to 12 years
+3885,3,4,3,2,2,3,3,4,3,2,2,3,3,1,1,3,3,1,4,2,4,3,5,5,5,5,3,4,4,Herding Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 110 pounds,12 to 14 years
+3886,3,3,3,2,1,2,3,3,2,3,3,3,3,3,3,3,3,2,3,3,3,2,2,4,1,4,3,3,3,Mixed Breed Dogs,12 to 15 inches ,30 to 60 pounds,9 to 13 years
+3887,3,3,3,2,4,3,3,3,4,3,2,3,4,1,4,3,3,3,3,4,4,3,2,3,1,4,4,3,4,Terrier Dogs,12 to 15 inches. ,70 to 115 pounds,12 to 15 years
+3888,3,2,4,2,3,4,4,5,4,1,4,2,2,1,5,3,4,4,4,2,4,4,4,4,3,5,4,3,5,Mixed Breed Dogs,20 to 25 inches,9 to 15 pounds,14 to 15 years
+3889,3,2,5,1,3,2,4,5,4,4,4,4,2,2,5,2,4,4,4,2,5,4,3,3,4,5,5,4,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",40 to 180 pounds,12 - 15 years
+3890,3,5,3,3,2,1,4,5,1,3,3,2,4,2,4,4,3,5,3,4,4,3,2,3,1,3,3,3,3,Working Dogs,8 inches to 10 inches tall at the shoulder,22 to 55 pounds,14 to 15 years
+3891,3,3,3,3,3,2,4,5,5,4,2,3,3,3,4,3,2,3,3,3,4,2,5,4,4,4,4,2,4,Working Dogs,12 to 16 inches,30 to 60 pounds,10 to 13 years
+3892,3,2,5,2,3,2,5,3,5,2,1,3,4,1,2,3,5,4,3,3,4,3,3,3,3,4,5,4,5,Working Dogs,12 to 13 inches ,40 to 180 pounds,10 to 12 years
+3893,3,5,4,1,2,2,4,4,4,3,4,3,4,1,4,3,4,4,3,4,3,5,4,2,2,4,3,2,5,Mixed Breed Dogs,8 to 18 inches ,40 to 180 pounds,10 to 12 years
+3894,4,4,4,3,2,3,3,4,3,2,4,3,2,1,4,4,2,2,4,3,4,4,3,5,2,3,4,3,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,20 to 30 Pounds ,13 to 16 years
+3895,3,1,3,3,4,2,4,5,5,4,2,4,4,1,4,4,5,5,5,3,4,2,2,5,3,4,3,3,5,Working Dogs,12 to 16 inches ,18 to 30 pounds,12 to 18 years
+3896,3,3,3,5,4,4,5,5,5,5,4,3,5,3,5,3,4,2,4,5,4,2,3,4,4,4,4,4,4,Mixed Breed Dogs,18 to 25 inches,33 to 53 pounds,10 to 15 years
+3897,4,4,5,3,4,3,5,4,5,5,5,3,4,1,5,4,2,2,4,3,4,1,5,4,4,5,5,4,4,Hound Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",4 to 12 pounds,10 to 12 years
+3898,3,4,3,3,2,2,4,5,4,2,3,3,3,2,3,4,3,3,3,2,4,5,2,2,1,3,3,2,4,Working Dogs,10 to 14 inches,18 to 30 pounds,11 to 13 years
+3899,4,2,3,1,3,4,5,5,4,3,4,3,4,1,1,3,2,4,4,5,4,3,3,3,3,4,4,4,4,Hybrid Dogs,8 to 18 inches ,Starts at 20 pounds,10 to 12 years
+3900,4,4,4,2,4,4,5,5,4,4,4,4,4,2,3,3,2,4,3,5,5,2,3,2,3,4,4,4,5,Mixed Breed Dogs,18 to 25 inches,8 to 15 pounds ,12 to 15 years
+3901,2,3,4,1,1,2,3,4,4,2,2,3,5,1,5,2,3,2,4,2,3,3,5,5,5,5,5,3,3,Companion Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,10 to 12 years
+3902,3,5,2,3,1,2,4,5,4,3,3,2,4,1,2,4,3,3,3,5,3,2,3,2,2,4,5,4,4,Herding Dogs,8 to 18 inches ,Starts at 20 pounds,10 to 12 years
+3903,3,2,4,1,3,2,1,5,4,4,3,3,1,1,5,2,4,4,3,4,4,4,2,2,2,3,2,3,4,Mixed Breed Dogs,"2 feet, 2 inches to 2 feet, 6 inches tall at the shoulder",20 to 75 pounds,10 to 12 years
+3904,3,3,4,2,4,3,5,5,5,4,5,3,4,2,3,3,3,5,3,5,5,5,5,2,3,4,5,3,4,Working Dogs,19 to 24 inches,70 to 115 pounds,12 to 14 years
+3905,3,5,3,2,3,3,4,5,4,3,3,3,1,2,2,2,3,1,3,3,3,4,3,2,3,4,4,3,5,Companion Dogs,10 to 25 inches,35 to 65 pounds ,12 to 15 years
+3906,3,4,5,3,2,3,3,4,4,4,5,3,5,2,1,4,3,3,3,3,4,2,5,3,4,4,4,3,4,Herding Dogs,12 to 15 inches. ,7 to 12 pounds,10 to 11 years
+3907,3,2,3,1,4,3,4,5,5,4,4,3,3,2,3,3,4,4,3,5,5,2,3,3,3,4,4,4,5,Mixed Breed Dogs,"1 foot, 8 inches to 1 foot, 11 inches tall at the shoulder",30 to 80 pounds ,12 to 15 years
+3908,3,2,4,1,3,3,4,5,4,2,3,2,1,1,5,3,3,1,3,4,4,3,3,2,3,4,4,3,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,10 to 15 years
+3909,3,2,3,3,4,2,4,5,4,4,1,2,3,3,1,3,2,3,3,3,4,2,2,3,3,3,3,3,4,Working Dogs,12 to 16 inches,30 to 60 pounds,9 to 15 years
+3910,3,4,3,3,4,3,4,5,3,1,2,3,2,1,4,4,3,1,3,4,4,4,3,4,4,4,5,4,4,Mixed Breed Dogs,19 to 25 inches,13 to 18 pounds,12 to 15 years
+3911,4,2,3,1,4,3,4,5,5,4,3,4,1,1,5,4,4,4,3,4,5,2,2,3,2,4,5,3,5,Mixed Breed Dogs,8 to 18 inches ,5 to 25 pounds ,12 to 14 years
+3912,3,4,3,3,3,2,4,5,4,2,2,2,1,2,3,3,4,1,3,4,4,2,3,2,2,4,3,3,4,Mixed Breed Dogs,9 to 12 inches,45 to 50 pounds,Up to 15 years
+3913,3,2,3,2,5,3,3,4,3,3,2,3,3,2,1,3,3,3,4,3,4,4,5,4,5,4,4,3,4,Sporting Dogs,12 to 15 inches. ,18 to 30 pounds,10 to 12 years
+3914,3,5,3,1,2,3,3,4,1,3,2,3,5,1,5,4,3,1,3,2,3,3,2,3,3,3,3,2,5,Mixed Breed Dogs,7 to 12 inches,9 to 20 pounds ,Up to 15 years
+3915,3,3,5,2,4,2,5,5,4,4,3,4,2,1,3,4,3,3,4,5,5,3,3,2,2,4,5,4,4,Hound Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",13 to 25 pounds,10 to 14 years
+3916,3,3,3,5,4,4,5,5,5,4,3,3,3,1,4,4,3,3,4,5,5,2,5,4,3,5,5,4,5,Sporting Dogs,22 inches to 26 inches tall at the shoulder,40 to 95 pounds,10 to 12 years
+3917,3,2,3,4,3,4,3,4,2,2,4,3,1,1,2,5,4,2,4,2,4,4,4,4,5,4,4,3,4,Hound Dogs,16 to 25 inches ,9 to 15 pounds,7 to 10 years
+3918,3,3,4,3,2,3,4,5,4,3,4,2,3,1,5,2,4,4,3,5,5,3,3,3,2,5,4,3,5,Mixed Breed Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",Starts at 20 pounds,11 to 13 years
+3919,3,2,4,3,4,3,5,5,5,5,5,4,4,2,3,3,3,3,4,4,5,3,4,4,3,5,5,2,5,Sporting Dogs,"1 foot, 6 inches to 1 foot, 10 inches tall at the shoulder",35 to 75 pounds. ,10 to 12 years
+3920,3,3,4,1,4,4,4,5,4,2,3,3,2,1,5,4,4,2,3,4,5,3,3,3,2,4,4,3,5,Mixed Breed Dogs,16 to 25 inches ,40 to 180 pounds,13 to 16 years
+3921,4,2,5,1,5,2,5,5,5,5,5,3,4,4,3,3,4,4,3,3,4,2,1,2,3,4,4,3,1,Mixed Breed Dogs,24 to 27 inches at the shoulder,30 to 80 pounds ,10 to 15 years
+3922,4,3,5,2,2,5,4,5,4,2,4,3,1,1,5,5,3,2,4,2,4,3,5,1,4,5,5,4,5,Companion Dogs,21 to 25 inches at the shoulder,120 to 180 pounds,10 to 13 years
+3923,4,4,4,2,4,3,5,5,5,5,5,3,3,1,2,4,4,3,4,2,4,4,5,4,4,4,4,2,5,Hound Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",50 to 65 pounds,10 to 12 years
+3924,3,2,4,2,2,2,4,5,4,4,4,4,4,3,5,3,4,4,3,4,5,3,3,2,3,5,5,3,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,10 to 15 years
+3925,4,4,3,3,4,3,4,5,4,4,3,3,5,2,3,4,2,3,3,4,4,3,1,2,1,4,3,3,4,Working Dogs,16 to 25 inches,30 to 60 pounds,14 to 17 years
+3926,4,4,3,5,4,3,5,5,5,5,5,3,3,1,4,3,5,2,3,3,4,4,5,4,5,4,5,2,4,Hound Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",25 to 35 pounds. ,Up to 15 years
+3927,3,1,5,2,3,4,3,4,5,2,3,4,2,1,5,5,3,3,4,1,4,4,5,4,5,5,5,4,5,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",48 to 55 pounds,10 to 13 years
+3928,3,4,3,5,2,4,4,4,3,2,4,2,3,1,2,3,3,1,3,2,4,3,3,2,1,2,4,2,5,Herding Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years. 
+3929,3,2,2,1,4,2,4,5,4,4,3,3,4,1,3,4,4,5,3,5,4,3,3,5,3,4,5,4,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,6 to 8 years
+3930,4,5,4,3,4,2,4,5,4,4,3,3,2,1,2,2,4,3,3,5,4,2,4,2,4,4,4,2,4,Mixed Breed Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",40 to 60 pounds,12 to 16 years
+3931,3,3,3,2,4,4,4,5,5,1,4,2,2,1,5,3,4,4,3,4,4,2,3,5,3,4,3,4,5,Mixed Breed Dogs,26 to 35 inches,Starts at 20 pounds,10 to 15 years
+3932,3,4,3,2,4,2,3,4,2,3,2,3,2,1,2,5,3,1,3,3,3,2,3,5,4,2,2,2,3,Mixed Breed Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",8 to 14 pounds,12 to 14 years
+3933,3,3,3,2,3,3,3,4,5,5,3,3,3,2,1,3,2,4,4,3,4,4,5,4,4,4,4,3,4,Working Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",7 to 12 pounds,11 to 15 years
+3934,3,2,3,3,1,2,3,5,3,3,2,3,3,1,3,3,2,1,3,3,4,2,5,2,2,4,2,2,4,Working Dogs,12 to 16 inches,110 to 200 pounds,8 to 12 years
+3935,3,4,5,1,3,4,4,5,4,3,3,3,3,1,5,4,4,5,4,4,5,4,3,4,5,5,5,3,5,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",15 to 35 pounds ,10 to 15 years
+3936,3,4,4,3,4,2,3,4,3,3,2,3,3,2,4,4,2,3,4,5,3,2,2,2,1,3,3,2,4,Mixed Breed Dogs,12 to 16 inches,10 to 20 pounds,12 to 16 years 
+3937,3,3,4,1,2,4,4,4,5,3,2,3,3,1,5,4,3,3,4,2,4,3,3,5,5,5,4,4,5,Hound Dogs,16 to 25 inches ,9 to 15 pounds,12 to 15 years
+3938,3,4,2,1,5,3,5,5,4,5,1,3,3,2,3,4,4,5,2,1,5,3,3,3,2,4,4,5,5,Hound Dogs,18 to 25 inches,4 to 12 pounds,10 to 12 years
+3939,4,4,3,1,2,3,3,4,3,3,2,3,2,1,2,4,3,2,4,3,4,4,5,4,5,4,5,2,2,Terrier Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,10 to 15 years
+3940,3,2,5,1,2,2,4,4,4,3,2,2,2,1,4,2,3,3,4,4,4,3,3,4,5,4,4,4,4,Mixed Breed Dogs,11 to 24 inches,15 to 35 pounds ,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+3941,3,3,5,1,3,4,4,4,3,3,3,3,2,1,5,2,2,3,4,2,3,3,4,5,5,5,5,5,5,Sporting Dogs,16 to 25 inches ,9 to 15 pounds,10 to 12 years
+3942,3,3,2,1,2,4,3,4,2,2,2,3,2,1,5,5,3,1,4,2,3,3,5,4,5,3,4,4,3,Mixed Breed Dogs,21 to 25 inches at the shoulder,3 to 6 pounds,12 to 16 years
+3943,2,1,2,3,5,1,3,2,4,1,1,4,4,4,4,4,3,5,2,3,4,2,2,1,1,3,2,2,4,Working Dogs,12 to 15 inches. ,30 to 60 pounds,10 to 12 years
+3944,4,2,4,1,4,4,5,5,5,5,5,3,5,2,4,4,4,3,4,4,5,3,3,2,4,5,5,5,4,Sporting Dogs,19 to 24 inches,25 to 35 pounds. ,12 to 12 years
+3945,3,2,4,3,4,2,4,5,4,2,5,2,4,1,5,4,3,1,4,2,4,3,3,5,5,5,5,5,5,Mixed Breed Dogs,20 to 25 inches,3 to 6 pounds,12 to 15 years
+3946,3,3,3,2,3,4,3,4,3,3,3,3,3,1,3,5,3,2,2,3,3,4,3,4,3,3,3,2,3,Terrier Dogs,22 inches to 26 inches tall at the shoulder,44 to 55 pounds. ,12 to 16 years
+3947,3,2,3,2,3,2,4,4,4,4,1,3,3,1,4,2,5,2,3,2,4,3,4,1,3,4,4,4,5,Terrier Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",48 to 55 pounds,10 to 14 years
+3948,3,2,4,2,2,5,4,5,5,4,5,2,3,5,3,2,4,4,4,5,5,2,1,4,3,5,5,4,5,Mixed Breed Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3949,3,3,4,1,2,4,3,4,3,2,2,3,2,1,5,5,3,1,3,2,4,4,4,4,3,5,4,2,4,Mixed Breed Dogs,21 to 25 inches at the shoulder,15 to 35 pounds ,10 to 12 years.
+3950,3,2,4,2,3,4,4,5,4,2,3,4,3,3,5,2,3,4,5,5,4,3,3,3,5,5,5,4,5,Sporting Dogs,16 to 25 inches ,15 to 35 pounds ,10 to 14 years
+3951,4,4,3,3,2,3,5,5,5,3,5,3,3,1,1,3,5,3,4,3,3,4,5,4,4,5,4,2,4,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",50 to 65 pounds,13 to 14 years
+3952,4,4,5,2,4,4,5,5,5,5,4,3,1,1,5,4,3,4,4,5,4,2,5,2,4,5,5,5,5,Herding Dogs,16 to 25 inches ,Starts at 20 pounds,12 to 14 years
+3953,2,1,3,3,5,1,5,5,5,1,2,4,3,4,1,1,3,5,3,3,3,5,5,1,3,2,2,5,3,Working Dogs,12 to 16 inches ,7 to 12 pounds,8 to 10 years
+3954,2,3,4,2,4,4,5,5,5,5,5,2,3,1,2,5,5,3,4,3,4,4,3,4,4,4,4,5,5,Companion Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years
+3955,2,2,4,1,4,4,4,5,5,4,4,4,5,1,5,4,4,4,3,4,5,2,3,2,3,5,5,4,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3956,3,2,5,1,1,3,5,5,5,2,3,4,4,5,5,4,4,5,3,3,3,4,2,1,1,4,3,4,1,Companion Dogs,20 to 28 inches,70 to 130 pounds,12 to 16 years
+3957,4,4,4,1,2,4,4,5,4,4,4,2,4,2,4,3,3,4,3,5,5,1,4,3,2,4,5,4,3,Herding Dogs,8 to 18 inches ,40 to 180 pounds,10 to 12 years
+3958,3,3,4,1,3,4,4,5,5,4,4,4,3,2,2,4,4,4,3,5,4,3,3,3,3,5,5,4,5,Mixed Breed Dogs,20 to 25 inches,Starts at 20 pounds,13 to 16 years
+3959,3,2,3,2,2,4,4,5,5,4,4,3,1,1,5,4,3,2,4,5,4,3,4,1,3,4,4,4,5,Mixed Breed Dogs,20 to 25 inches,40 to 180 pounds,11 to 14 years old
+3960,3,2,4,3,5,1,2,3,1,2,3,3,3,5,4,4,3,5,4,4,3,3,2,3,3,3,3,2,4,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",10 to 20 pounds,9 to 15 years
+3961,4,2,4,2,5,3,4,5,4,4,4,3,2,2,3,4,4,3,3,4,4,2,3,2,1,4,4,3,4,Mixed Breed Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",30 to 60 pounds,12 to 15 years
+3962,3,2,4,3,1,2,4,5,4,3,2,3,3,3,5,4,3,5,4,4,3,3,4,1,5,5,4,2,5,Working Dogs,7 to 11 inches,37 to 62 pounds,12 to 14 years
+3963,3,3,4,2,4,3,4,5,2,3,2,3,2,1,5,4,2,2,4,4,4,2,3,4,4,4,4,4,4,Mixed Breed Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",25 to 40 pounds,10 to 14 years
+3964,4,4,4,2,4,4,4,4,4,3,4,3,2,1,5,5,3,3,4,5,4,3,4,1,3,4,4,4,4,Hound Dogs,16 to 25 inches ,16 to 28 pounds,12 to 15 years
+3965,3,2,4,1,3,3,4,5,4,4,3,4,4,2,5,4,4,4,3,4,4,2,3,2,3,5,5,5,5,Mixed Breed Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3966,3,4,4,2,2,4,3,4,4,2,4,3,3,1,5,5,3,1,3,2,4,4,3,5,3,3,4,4,5,Mixed Breed Dogs,16 to 25 inches ,70 to 80 pounds,12 to 15 years
+3967,3,2,4,1,4,4,5,5,5,5,5,3,4,1,2,3,4,3,4,1,5,5,5,3,3,5,5,5,5,Hound Dogs,"1 foot, 3 inches to 1 foot, 7 inches tall at the shoulder",50 to 60 pounds,8 to 12 years
+3968,3,2,4,2,2,3,3,4,4,3,3,3,1,3,5,5,4,3,4,3,4,3,3,2,2,4,3,3,4,Herding Dogs,24 to 30 inches,25 to 27 pounds,12 to 13 years
+3969,4,4,2,2,4,3,5,5,5,5,5,3,3,1,2,4,3,4,4,4,4,5,5,5,5,4,4,5,4,Sporting Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",18 to 30 pounds,10 to 14 years. 
+3970,3,1,3,2,2,4,4,4,3,3,4,4,2,1,4,4,3,3,3,4,3,3,2,4,3,5,5,4,4,Sporting Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",9 to 15 pounds,10 to 14 years
+3971,3,1,4,2,3,4,4,5,4,4,4,4,4,1,5,3,2,3,4,5,5,2,4,4,3,4,5,5,5,Working Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",40 to 180 pounds,12 to 15 years
+3972,4,2,5,2,4,2,5,5,5,4,5,3,3,2,3,3,4,3,4,3,5,2,4,4,3,4,4,3,4,Working Dogs,19 to 24 inches,30 to 60 pounds,12 to 15 years
+3973,3,2,5,1,4,4,5,5,5,5,4,3,4,2,5,4,3,3,4,5,5,1,5,4,3,5,5,3,5,Sporting Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",5 to 20 pounds ,10 to 14 years
+3974,4,4,4,2,4,4,5,5,5,3,3,3,2,1,4,5,2,2,4,3,4,2,4,4,5,4,4,4,4,Terrier Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",7 to 9 pounds,10 to 15 years
+3975,3,1,3,2,4,3,4,5,5,3,3,4,4,2,3,4,3,4,4,4,4,2,3,2,4,4,5,5,4,Working Dogs,20 to 27 inches ,60 to 95 pounds ,10 to 12 years
+3976,2,2,5,2,4,4,5,5,5,5,5,3,5,3,1,4,4,3,4,3,5,2,5,4,4,5,5,5,5,Sporting Dogs,9 inches to 1 foot tall at the shoulder,25 to 35 pounds. ,10 to 12 years
+3977,3,3,3,3,2,3,4,4,3,2,3,3,2,1,2,4,2,2,4,4,4,4,5,3,2,3,5,3,5,Companion Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 100 pounds,12 to 15 years 
+3978,3,3,4,3,3,3,3,4,3,2,2,4,3,1,5,3,3,3,3,3,3,4,3,3,3,4,3,4,4,Companion Dogs,21 to 25 inches at the shoulder,9 to 15 pounds,10 to 12 years
+3979,4,4,4,1,3,4,4,5,5,5,4,3,4,1,5,4,4,3,4,4,5,3,3,3,5,5,5,4,5,Terrier Dogs,16 to 25 inches ,40 to 180 pounds,10 to 15 years
+3980,3,3,3,2,4,2,5,4,5,3,3,3,5,1,3,4,3,2,4,3,4,2,5,4,4,4,4,3,4,Working Dogs,10 to 14 inches,60 to 75 pounds,11 to 13 years
+3981,3,3,5,2,2,4,4,4,3,2,2,3,2,1,5,3,2,5,4,3,4,4,5,4,5,5,4,4,5,Mixed Breed Dogs,21 to 25 inches at the shoulder,120 to 180 pounds,10 to 12 years
+3982,3,3,4,3,3,2,3,4,3,3,2,4,4,1,5,5,3,1,4,3,4,2,4,4,1,4,4,2,3,Mixed Breed Dogs,"11 inches to 1 foot, 1 inch tall at the shoulder",20 to 30 Pounds ,6 to 8 years
+3983,2,3,4,2,5,3,4,5,5,4,5,4,5,5,3,3,5,5,3,4,4,5,2,4,4,4,2,2,4,Working Dogs,19 to 24 inches,70 to 115 pounds,10 to 12 years
+3984,4,1,4,1,3,4,4,4,4,3,3,3,2,1,5,5,4,4,3,4,5,4,3,3,2,5,4,4,5,Mixed Breed Dogs,16 to 25 inches ,40 to 180 pounds,12 to 14 years 
+3985,3,5,4,1,2,2,3,5,3,2,2,2,1,1,2,2,5,1,3,3,4,2,4,3,1,3,2,2,5,Mixed Breed Dogs,20 to 25 inches,70 to 80 pounds,8 to 10 years
+3986,3,2,4,3,5,4,5,5,5,5,5,4,5,5,3,3,3,5,3,4,5,5,3,4,3,4,4,3,4,Hound Dogs,19 to 24 inches,30 to 60 pounds,8 to 10 years
+3987,3,3,3,3,3,4,4,5,3,3,3,4,3,1,5,4,3,2,4,4,4,4,4,5,5,5,4,4,4,Terrier Dogs,7 to 12 inches,15 to 35 pounds ,10 to 12 years
+3988,2,1,3,1,5,1,2,5,5,1,5,3,5,5,4,3,4,5,2,3,4,2,5,4,1,2,2,2,4,Working Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",18 to 30 pounds,10 to 12 years
+3989,3,2,4,1,5,1,4,5,4,4,5,4,4,4,5,3,4,4,3,4,4,2,3,2,2,4,4,3,5,Mixed Breed Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",4 to 16 pounds ,12 to 14 years
+3990,4,2,3,2,4,1,5,5,4,3,3,3,4,2,1,2,3,4,3,5,4,4,5,4,4,4,5,1,4,Sporting Dogs,12 to 16 inches,30 to 60 pounds,10 to 15 years
+3991,3,2,4,1,3,4,4,5,5,4,3,3,2,1,5,3,3,4,4,4,4,4,4,4,5,5,5,3,5,Herding Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",9 to 15 pounds,10 to 13 years
+3992,3,2,5,1,4,2,4,5,4,4,3,4,5,4,3,3,3,4,4,4,4,5,3,4,4,4,5,5,5,Mixed Breed Dogs,8 to 18 inches ,Starts at 20 pounds,12 to 15 years. 
+3993,3,3,3,2,3,4,5,5,5,4,2,3,5,1,3,3,5,2,3,3,4,2,5,3,4,4,4,2,4,Mixed Breed Dogs,24 to 31 inches tall at the shoulder,44 to 50 pounds,13 to 16 years
+3994,3,4,4,1,3,2,4,5,5,3,4,3,4,1,3,4,1,4,3,4,5,2,3,2,2,5,5,3,5,Mixed Breed Dogs,8 to 18 inches ,40 to 180 pounds,12 to 15 years
+3995,3,2,4,2,2,3,4,5,4,3,4,3,4,2,5,4,4,4,3,4,5,3,4,3,3,4,5,4,5,Mixed Breed Dogs,"1 foot, 8 inches to 1 foot, 11 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+3996,3,3,3,2,1,3,3,4,3,5,2,3,1,1,5,5,3,2,3,2,4,4,5,5,5,4,4,3,4,Herding Dogs,"Up to 1 foot, 2 inches tall at the shoulder",45 to 55 pounds,11 to 20 years
+3997,3,4,3,4,4,4,3,4,3,3,2,3,3,1,4,3,3,2,4,3,4,4,5,4,5,4,4,2,4,Mixed Breed Dogs,"Up to 1 foot, 2 inches tall at the shoulder",44 to 55 pounds. ,9 to 15 years
+3998,2,2,4,2,5,3,5,5,5,3,5,3,1,3,5,3,3,3,4,4,5,5,5,4,3,4,4,3,4,Working Dogs,19 to 24 inches,30 to 60 pounds,10 to 14 years
+3999,4,4,4,1,4,2,4,4,4,3,2,4,2,1,3,2,1,1,3,4,4,3,1,2,2,3,3,3,3,Mixed Breed Dogs,10 to 25 inches,90 to 150 pounds. ,12 to 15 years

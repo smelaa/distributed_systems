@@ -106,7 +106,6 @@ async def post_results(request: Request, city:str = Form(None), current_time:str
                 try:
                     bucketlist_response= await bucketlist_response.json()
                     task = bucketlist_response["item"]
-                    for_today="Task for today"
                 except Exception as e:
                     raise HTTPException(
                         status_code=500, detail=f"Failed to fetch or parse Bucketlist data: {e}"
