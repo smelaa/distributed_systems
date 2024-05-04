@@ -1,5 +1,4 @@
 syntax = "proto3";
-option python_multiple_files = true;
 
 message Event {
     enum Weekday {
