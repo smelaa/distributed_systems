@@ -1,0 +1,56 @@
+syntax = "proto3";
+option python_multiple_files = true;
+
+message Event {
+    enum Weekday {
+        UNKNOWN_WEEKDAY = 0;
+        MON = 1;
+        TUE = 2;
+        WED = 3;
+        THU = 4;
+        FRI = 5;
+    }
+
+    enum Cuisine {
+        UNKNOWN_CUISINE = 0;
+        POLISH = 1;
+        ITALIAN = 2;
+        INDIAN = 3;
+        MEXICAN = 4;
+    }
+
+    int32 id= 1;
+    Cuisine cuisine = 2;
+    Weekday day =3;
+    string dish_name = 4;
+    string description = 5;
+    repeated string ingredients = 6;
+}
+
+message CuisineSubscriptionRequest {
+    int32 client_id = 1;
+    Event.Cuisine cuisine = 2;
+}
+
+message WeekdaySubscriptionRequest {
+    int32 client_id = 1;
+    Event.Weekday weekday = 2;
+}
+
+message SubscriptionResponse{
+    int32 client_id = 1;
+    repeated Event events = 2; 
+}
+
+message ConnectRequest{
+    int32 client_id = 1;
+}
+
+
+service EventService{
+    rpc ClientConnect(ConnectRequest) returns (stream Event){}
+
+    rpc ClientSubscribeWeekday(WeekdaySubscriptionRequest) returns (SubscriptionResponse) {}
+
+    rpc ClientSubscribeCuisine(CuisineSubscriptionRequest) returns (SubscriptionResponse) {}
+}
