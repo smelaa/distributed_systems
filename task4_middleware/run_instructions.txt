@@ -1,3 +1,4 @@
 python -m pip install grpcio
 python -m pip install grpcio-tools
 python -m grpc_tools.protoc -I. --python_out=src/server/gen --grpc_python_out=src/server/gen protos/event.proto
+protoc.exe -I. --java_out=client/gen --plugin=protoc-gen-grpc-java=protoc-gen-grpc-java-1.62.2-windows-x86_64.exe --grpc-java_out=client/gen protos/event.proto 
