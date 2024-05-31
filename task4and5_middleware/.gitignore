@@ -1,0 +1,14 @@
+node_modules/
+package-lock.json
+.idea/
+.vscode/
+bin/
+_pycache_/
+*.pyc
+proto/
+*.iml
+*.xml
+libraties/
+*.jar
+lib/
+generated/

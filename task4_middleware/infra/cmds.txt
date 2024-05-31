@@ -1,2 +1,0 @@
-slice2java --output-dir server\generated \slice\servant_management.ice
-slice2py --output-dir client\generated \slice\servant_management.ice
