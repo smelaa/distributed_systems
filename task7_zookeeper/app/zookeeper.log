@@ -1,0 +1,152 @@
+2024-06-08 21:00:34 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:69)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:66)
+	... 2 common frames omitted
+2024-06-08 21:00:34 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:69)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:66)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:39:02 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:81)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:42:15 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:82)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:42:15 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.RuntimeException: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.hw.ZooApp.process(ZooWatcher.java:82)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+Caused by: org.apache.zookeeper.KeeperException$NoNodeException: KeeperErrorCode = NoNode for /a
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:118)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:54)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2366)
+	at org.hw.ZooApp.process(ZooWatcher.java:78)
+	... 2 common frames omitted
+2024-06-08 21:59:44 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.IllegalArgumentException: Path must start with / character
+	at org.apache.zookeeper.common.PathUtils.validatePath(PathUtils.java:49)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2348)
+	at org.hw.ZooApp.process(ZooWatcher.java:84)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+2024-06-08 21:59:44 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.IllegalArgumentException: Path must start with / character
+	at org.apache.zookeeper.common.PathUtils.validatePath(PathUtils.java:49)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2348)
+	at org.hw.ZooApp.process(ZooWatcher.java:84)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+2024-06-08 22:00:48 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.IllegalArgumentException: Path must start with / character
+	at org.apache.zookeeper.common.PathUtils.validatePath(PathUtils.java:49)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2348)
+	at org.hw.ZooApp.process(ZooWatcher.java:85)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+2024-06-08 22:00:48 ERROR org.apache.zookeeper.ClientCnxn - Error while calling watcher.
+java.lang.IllegalArgumentException: Path must start with / character
+	at org.apache.zookeeper.common.PathUtils.validatePath(PathUtils.java:49)
+	at org.apache.zookeeper.ZooKeeper.getChildren(ZooKeeper.java:2348)
+	at org.hw.ZooApp.process(ZooWatcher.java:85)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:579)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:554)
+2024-06-08 23:22:35 WARN  org.apache.zookeeper.ClientCnxn - Session 0x0 for server kubernetes.docker.internal/127.0.0.1:2181, Closing socket connection. Attempting reconnect except it is a SessionExpiredException.
+java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:973)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:344)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1289)
+2024-06-08 23:22:35 WARN  org.apache.zookeeper.ClientCnxn - Session 0x0 for server kubernetes.docker.internal/127.0.0.1:2181, Closing socket connection. Attempting reconnect except it is a SessionExpiredException.
+java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:973)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:344)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1289)
